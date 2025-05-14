@@ -1,5 +1,0 @@
-Data/Hora: 2025-05-14 03:45:32 | Usuário: admin | IP Local: 192.168.0.13 | IP Público: 177.37.170.174
-Data/Hora: 2025-05-14 04:30:18 | Usuário: admin | Estado: Desconhecido | Cidade: Desconhecido
-Data/Hora: 2025-05-14 04:32:18 | Usuário: admin | IP Local: 192.168.0.13 | IP Público: Não foi possível obter o IP público | Localização: Desconhecido, Desconhecido, Desconhecido | Provedor: Desconhecido
-Data/Hora: 2025-05-14 04:37:30 | Usuário: admin | IP Local: 192.168.0.13 | IP Público: Não foi possível obter o IP público
-Data/Hora: 2025-05-14 04:49:01 | Usuário: admin | IP Local: 192.168.0.13 | IP Público: Não foi possível obter o IP público
