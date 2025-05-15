@@ -17,3 +17,4 @@ Data/Hora: 2025-05-15 14:06:43 | Usuário: thiago | IP Local: 192.168.1.178 | IP
 Data/Hora: 2025-05-15 14:39:09 | Usuário: lucas | IP Local: 192.168.1.7 | IP Público: 45.160.39.102
 Data/Hora: 2025-05-15 14:52:52 | Usuário: lucas | IP Local: 192.168.1.4 | IP Público: 45.160.39.102
 Data/Hora: 2025-05-15 17:42:30 | Usuário: pablo | IP Local: 192.168.100.20 | IP Público: Não foi possível obter o IP público
+Data/Hora: 2025-05-15 18:38:11 | Usuário: pablo | IP Local: 192.168.100.20 | IP Público: Não foi possível obter o IP público
