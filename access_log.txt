@@ -31,3 +31,4 @@ Data/Hora: 2025-05-15 21:37:34 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-15 21:42:52 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.229
 Data/Hora: 2025-05-15 21:54:29 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.229
 Data/Hora: 2025-05-15 21:55:26 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.197.19
+Data/Hora: 2025-05-16 05:31:17 | Usuário: cabeleira | IP Local: 192.168.1.100 | IP Público: 168.232.47.49
