@@ -2,3 +2,4 @@ Data/Hora: 2025-05-17 22:36:40 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-18 01:11:30 | Usuário: pablo | IP Local: 192.168.100.20 | IP Público: Não foi possível obter o IP público
 Data/Hora: 2025-05-18 01:32:13 | Usuário: pablo | IP Local: 192.168.100.20 | IP Público: Não foi possível obter o IP público
 Data/Hora: 2025-05-18 12:22:04 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.199.97
+Data/Hora: 2025-05-18 12:23:38 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.245
