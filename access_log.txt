@@ -8,3 +8,4 @@ Data/Hora: 2025-05-18 17:52:09 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-18 18:49:33 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.199.159
 Data/Hora: 2025-05-18 22:51:26 | Usuário: lucas | IP Local: 192.168.1.4 | IP Público: 45.160.39.102
 Data/Hora: 2025-05-19 20:12:44 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.199.159
+Data/Hora: 2025-05-19 20:19:15 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.199.228
