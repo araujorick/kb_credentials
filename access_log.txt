@@ -13,3 +13,4 @@ Data/Hora: 2025-05-19 22:19:32 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-19 22:55:08 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.245
 Data/Hora: 2025-05-20 14:13:14 | Usuário: admin | IP Local: 192.168.0.5 | IP Público: Não foi possível obter o IP público
 Data/Hora: 2025-05-20 14:14:42 | Usuário: admin | IP Local: 192.168.0.5 | APP: ViKinG Autopotion
+Data/Hora: 2025-05-20 14:15:23 | Usuário: admin | IP Local: 192.168.0.5 | App: ViKinG Autopotion
