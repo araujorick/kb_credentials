@@ -1,3 +1,4 @@
 Data/Hora: 2025-05-20 14:31:51 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
 Data/Hora: 2025-05-20 16:36:42 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
 Data/Hora: 2025-05-20 16:41:01 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
+Data/Hora: 2025-05-20 17:21:52 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
