@@ -5,3 +5,4 @@ Data/Hora: 2025-05-21 17:46:28 | Usuário: rafael | IP Local: 192.168.137.1 | Ap
 Data/Hora: 2025-05-21 18:08:44 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.245
 Data/Hora: 2025-05-21 18:13:29 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.192.75
 Data/Hora: 2025-05-21 18:20:26 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
+Data/Hora: 2025-05-21 18:26:46 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
