@@ -21,3 +21,4 @@ Data/Hora: 2025-05-20 20:51:04 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-20 21:35:14 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
 Data/Hora: 2025-05-20 21:47:53 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
 Data/Hora: 2025-05-20 22:14:11 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
+Data/Hora: 2025-05-20 22:17:46 | Usuário: admin | IP Local: admin | App: ViKinG Autopotion
