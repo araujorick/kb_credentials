@@ -18,3 +18,4 @@ Data/Hora: 2025-05-21 21:17:57 | Usuário: admin | IP Local: admin | App: ViKinG
 Data/Hora: 2025-05-21 22:34:03 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-05-21 22:37:40 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-05-21 22:38:32 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
+Data/Hora: 2025-05-21 23:09:03 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
