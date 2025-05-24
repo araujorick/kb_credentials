@@ -38,3 +38,4 @@ Data/Hora: 2025-05-24 00:21:49 | Usuário: anjodarks | IP Local: 26.13.247.150 |
 Data/Hora: 2025-05-24 00:33:28 | Usuário: anjoazazel | IP Local: 192.168.10.22 | IP Público: 177.86.139.58
 Data/Hora: 2025-05-24 00:40:28 | Usuário: anjoazazel | IP Local: 192.168.10.22 | IP Público: 177.86.139.58
 Data/Hora: 2025-05-24 01:18:15 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
+Data/Hora: 2025-05-24 10:23:30 | Usuário: chefin | IP Local: 192.168.18.15 | IP Público: 138.122.83.107
