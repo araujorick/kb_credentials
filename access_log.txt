@@ -32,3 +32,4 @@ Data/Hora: 2025-05-23 21:20:47 | Usuário: chefin | IP Local: 192.168.18.15 | IP
 Data/Hora: 2025-05-23 21:29:48 | Usuário: chefin | IP Local: 192.168.18.15 | IP Público: 138.122.83.68
 Data/Hora: 2025-05-23 21:31:35 | Usuário: chefin | IP Local: 192.168.18.15 | IP Público: 138.122.83.68
 Data/Hora: 2025-05-23 22:56:58 | Usuário: anjodarks | IP Local: 26.13.247.150 | IP Público: 45.184.5.245
+Data/Hora: 2025-05-23 23:32:16 | Usuário: lucas | IP Local: 192.168.1.4 | IP Público: 45.160.39.102
