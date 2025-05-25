@@ -55,3 +55,4 @@ Data/Hora: 2025-05-24 16:24:21 | Usuário: anjoazazel | IP Local: 192.168.1.3 | 
 Data/Hora: 2025-05-24 16:25:15 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-05-24 16:43:44 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-05-24 17:55:13 | Usuário: anjoazazel | IP Local: 192.168.1.7 | IP Público: 177.86.137.7
+Data/Hora: 2025-05-24 21:08:39 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
