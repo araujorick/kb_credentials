@@ -66,3 +66,4 @@ Data/Hora: 2025-05-25 12:22:48 | Usuário: admin | IP Local: admin | App: ViKinG
 Data/Hora: 2025-05-25 12:51:00 | Usuário: admin | IP Local: admin | App: ViKinG Autopick
 Data/Hora: 2025-05-25 13:30:55 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-05-25 13:31:25 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.198.17
+Data/Hora: 2025-05-25 13:31:42 | Usuário: anjoazazel | IP Local: 192.168.1.7 | IP Público: 177.86.137.7
