@@ -4,3 +4,4 @@ Data/Hora: 2025-05-27 01:11:14 | Usuário: pablo | IP Local: 192.168.100.20 | IP
 Data/Hora: 2025-05-27 05:08:40 | Usuário: admin | IP Local: admin | App: ViKinG Autopick
 Data/Hora: 2025-05-27 05:21:27 | Usuário: admin | IP Local: admin | App: ViKinG Autopick
 Data/Hora: 2025-05-27 05:29:35 | Usuário: admin | IP Local: admin | App: ViKinG Autopick
+Data/Hora: 2025-05-27 05:30:50 | Usuário: rafael | IP Local: 192.168.137.1 | IP Público: 200.53.195.194
