@@ -15,3 +15,4 @@ Data/Hora: 2025-06-01 13:58:08 | Usuário: rafael | IP Local: 192.168.137.1 | Ap
 Data/Hora: 2025-06-01 14:00:27 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-06-01 14:43:40 | Usuário: rafael | IP Local: 200.53.196.92 | App: ViKinG Autopick
 Data/Hora: 2025-06-01 16:27:15 | Usuário: anjoazazel | IP Local: 177.86.139.39 | App: ViKinG Autopick
+Data/Hora: 2025-06-01 17:49:23 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopick
