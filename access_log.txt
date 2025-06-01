@@ -11,3 +11,4 @@ Data/Hora: 2025-06-01 11:45:51 | Usuário: anjodarks | IP Local: 45.184.5.245 | 
 Data/Hora: 2025-06-01 11:50:22 | Usuário: rafael | IP Local: 200.53.196.92 | App: ViKinG Autopick
 Data/Hora: 2025-06-01 12:05:53 | Usuário: cabeleira | IP Local: 168.232.47.49 | App: ViKinG Autopick
 Data/Hora: 2025-06-01 12:57:25 | Usuário: lilon | IP Local: 201.131.143.102 | App: ViKinG Autopick
+Data/Hora: 2025-06-01 13:58:08 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
