@@ -10,3 +10,4 @@ Data/Hora: 2025-06-03 13:36:00 | Usuário: admin | IP Local: [OCULTO] | App: ViK
 Data/Hora: 2025-06-03 14:13:38 | Usuário: rodrigo | IP Local: 186.194.146.184 | App: ViKinG Autopick
 Data/Hora: 2025-06-03 18:19:11 | Usuário: anjoazazel | IP Local: 177.86.139.39 | App: ViKinG Autopick
 Data/Hora: 2025-06-03 19:43:48 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
+Data/Hora: 2025-06-03 19:55:01 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
