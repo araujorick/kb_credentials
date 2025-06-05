@@ -13,3 +13,4 @@ Data/Hora: 2025-06-04 21:46:58 | Usuário: rafaelvip | IP Local: 200.53.196.92 |
 Data/Hora: 2025-06-04 21:51:06 | Usuário: rafaelvip | IP Local: 200.53.196.92 | App: ViKinG Autopick
 Data/Hora: 2025-06-04 22:08:55 | Usuário: rafaelvip | IP Local: 200.53.196.92 | App: ViKinG Autopick
 Data/Hora: 2025-06-04 22:09:41 | Usuário: rafaelvip | IP Local: 200.53.196.92 | App: ViKinG Autopick
+Data/Hora: 2025-06-04 22:13:49 | Usuário: victor | IP Local: 168.196.89.226 | App: ViKinG Autopick
