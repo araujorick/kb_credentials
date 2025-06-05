@@ -6,3 +6,4 @@ Data/Hora: 2025-06-05 18:26:41 | Usuário: rafaelvip | IP Local: 200.53.197.99 |
 Data/Hora: 2025-06-05 18:28:57 | Usuário: rafaelvip | IP Local: 200.53.197.99 | App: ViKinG Autopick
 Data/Hora: 2025-06-05 18:55:29 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
 Data/Hora: 2025-06-05 19:20:24 | Usuário: bryan | IP Local: 189.63.138.44 | App: ViKinG Autopick
+Data/Hora: 2025-06-05 19:33:07 | Usuário: rodrigo | IP Local: 186.194.146.95 | App: ViKinG Autopick
