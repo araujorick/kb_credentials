@@ -21,3 +21,4 @@ Data/Hora: 2025-06-08 10:55:41 | Usuário: admin | IP Local: [OCULTO] | App: ViK
 Data/Hora: 2025-06-08 11:11:06 | Usuário: rafaelvip | IP Local: 200.53.195.158 | App: ViKinG Autopick
 Data/Hora: 2025-06-08 11:19:39 | Usuário: rafaelvip | IP Local: 200.53.195.158 | App: ViKinG Autopick
 Data/Hora: 2025-06-08 11:38:37 | Usuário: rafael | IP Local: 192.168.137.1 | App: ViKinG Autopotion
+Data/Hora: 2025-06-08 11:51:43 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopick
