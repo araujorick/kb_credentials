@@ -32,3 +32,4 @@ Data/Hora: 2025-06-08 12:38:08 | Usuário: admin | IP Local: [OCULTO] | App: ViK
 Data/Hora: 2025-06-08 13:39:29 | Usuário: julio | IP Local: 168.232.161.156 | App: ViKinG Autopick
 Data/Hora: 2025-06-08 14:11:21 | Usuário: juliovip | IP Local: 168.232.161.156 | App: ViKinG Autopick
 Data/Hora: 2025-06-08 15:38:11 | Usuário: juliovip | IP Local: 168.232.161.156 | App: ViKinG Autopick
+Data/Hora: 2025-06-08 17:02:29 | Usuário: pablovip | IP Local: 187.126.174.101 | App: ViKinG Autopick
