@@ -4,3 +4,4 @@ Data/Hora: 2025-06-26 22:02:50 | Usuário: admin | IP Local: [OCULTO] | App: ViK
 Data/Hora: 2025-06-26 22:05:57 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
 Data/Hora: 2025-06-26 22:09:47 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
 Data/Hora: 2025-06-26 22:15:25 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
+Data/Hora: 2025-06-26 22:18:30 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
