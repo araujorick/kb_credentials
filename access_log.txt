@@ -13,3 +13,4 @@ Data/Hora: 2025-06-27 22:44:21 | Usuário: anjoazazel | IP Local: 177.86.139.64 
 Data/Hora: 2025-06-27 22:44:39 | Usuário: anjoazazel | IP Local: 177.86.139.64 | App: ViKinG Autopotion
 Data/Hora: 2025-06-27 22:44:52 | Usuário: anjoazazel | IP Local: 177.86.139.64 | App: ViKinG Autopotion
 Data/Hora: 2025-06-27 22:45:50 | Usuário: juliovip | IP Local: 143.0.56.72 | App: ViKinG Autopotion
+Data/Hora: 2025-06-27 22:49:02 | Usuário: juliovip | IP Local: 143.0.56.72 | App: ViKinG Autopotion
