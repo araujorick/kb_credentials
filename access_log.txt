@@ -11,3 +11,4 @@ Data/Hora: 2025-06-29 01:27:33 | Usuário: rafaelvip | IP Local: 200.53.196.59 |
 Data/Hora: 2025-06-29 01:28:02 | Usuário: rafaelvip | IP Local: 200.53.196.59 | App: ViKinG Autopotion
 Data/Hora: 2025-06-29 01:31:28 | Usuário: rafaelvip | IP Local: 200.53.196.59 | App: ViKinG Autopotion
 Data/Hora: 2025-06-29 01:32:00 | Usuário: rafaelvip | IP Local: 200.53.196.59 | App: ViKinG Autopotion
+Data/Hora: 2025-06-29 01:33:14 | Usuário: rafaelvip | IP Local: 200.53.196.59 | App: ViKinG Autopotion
