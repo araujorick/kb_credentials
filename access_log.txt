@@ -35,3 +35,4 @@ Data/Hora: 2025-06-29 22:57:15 | Usuário: rodrigo | IP Local: 189.113.51.47 | A
 Data/Hora: 2025-06-29 23:50:41 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
 Data/Hora: 2025-06-30 00:06:02 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
 Data/Hora: 2025-06-30 00:09:19 | Usuário: victorvip | IP Local: 168.196.89.128 | App: ViKinG Autopotion
+Data/Hora: 2025-06-30 00:25:07 | Usuário: lonely | IP Local: 187.79.129.236 | App: ViKinG Autopotion
