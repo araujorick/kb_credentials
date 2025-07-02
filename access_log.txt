@@ -3,3 +3,4 @@ Data/Hora: 2025-07-02 09:02:09 | Usuário: rodrigohospital | IP Local: 177.73.10
 Data/Hora: 2025-07-02 10:56:38 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
 Data/Hora: 2025-07-02 10:57:10 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
 Data/Hora: 2025-07-02 10:57:25 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
+Data/Hora: 2025-07-02 13:09:48 | Usuário: diego | IP Local: 45.224.210.197 | App: ViKinG Autopotion
