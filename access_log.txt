@@ -1,7 +1,0 @@
-Data/Hora: 2025-07-02 08:09:08 | Usuário: victorvip | IP Local: 168.196.89.29 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 09:02:09 | Usuário: rodrigohospital | IP Local: 177.73.104.64 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 10:56:38 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 10:57:10 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 10:57:25 | Usuário: anjoazazel | IP Local: 177.86.139.95 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 13:09:48 | Usuário: diego | IP Local: 45.224.210.197 | App: ViKinG Autopotion
-Data/Hora: 2025-07-02 17:57:55 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
