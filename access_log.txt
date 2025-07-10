@@ -16,3 +16,4 @@ Data/Hora: 2025-07-09 21:41:55 | Usuário: juliovip | IP Local: 190.102.47.157 |
 Data/Hora: 2025-07-09 22:10:06 | Usuário: diego | IP Local: 45.224.210.162 | App: ViKinG Autopotion
 Data/Hora: 2025-07-09 22:18:31 | Usuário: rafaelvip | IP Local: 200.53.193.212 | App: ViKinG Autopotion
 Data/Hora: 2025-07-09 09:27:25 | Usuário: lilonvip | IP Local: 131.161.17.181 | App: ViKinG Autopotion
+Data/Hora: 2025-07-09 23:57:52 | Usuário: victorvip | IP Local: 168.196.89.53 | App: ViKinG Autopotion
