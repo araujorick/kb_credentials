@@ -1,3 +1,4 @@
 Data/Hora: 2025-07-12 11:24:13 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
 Data/Hora: 2025-07-12 10:20:51 | Usuário: lonely | IP Local: 186.244.151.139 | App: ViKinG Autopotion
 Data/Hora: 2025-07-12 11:26:10 | Usuário: rafaelvip | IP Local: 200.53.196.144 | App: ViKinG Autopotion
+Data/Hora: 2025-07-12 10:25:02 | Usuário: lonely | IP Local: 186.244.151.139 | App: ViKinG Autopotion
