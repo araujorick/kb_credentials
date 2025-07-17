@@ -3,3 +3,4 @@ Data/Hora: 2025-07-16 23:23:38 | Usuário: victorvip | IP Local: 168.196.89.180 
 Data/Hora: 2025-07-17 00:49:16 | Usuário: victorvip | IP Local: 168.196.89.180 | App: ViKinG Autopotion
 Data/Hora: 2025-07-17 07:34:26 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopick
 Data/Hora: 2025-07-17 11:11:47 | Usuário: victorvip | IP Local: 168.196.89.180 | App: ViKinG Autopotion
+Data/Hora: 2025-07-17 12:55:07 | Usuário: lilonvip | IP Local: 201.131.136.10 | App: ViKinG Autopotion
