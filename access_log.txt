@@ -8,3 +8,4 @@ Data/Hora: 2025-07-17 13:53:55 | Usuário: victorvip | IP Local: 168.196.89.180 
 Data/Hora: 2025-07-17 18:18:39 | Usuário: rafaelvip | IP Local: 200.53.193.119 | App: ViKinG Autopotion
 Data/Hora: 2025-07-17 18:46:38 | Usuário: victorvip | IP Local: 168.196.89.180 | App: ViKinG Autopotion
 Data/Hora: 2025-07-17 18:54:48 | Usuário: victorvip | IP Local: 168.196.89.180 | App: ViKinG Autopotion
+Data/Hora: 2025-07-17 19:33:22 | Usuário: lonely | IP Local: 186.244.151.139 | App: ViKinG Autopotion
