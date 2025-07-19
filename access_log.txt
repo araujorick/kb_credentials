@@ -5,3 +5,4 @@ Data/Hora: 2025-07-19 15:44:17 | Usuário: rafaelvip | IP Local: 200.53.197.72 |
 Data/Hora: 2025-07-19 17:28:26 | Usuário: victorvip | IP Local: 168.196.89.217 | App: ViKinG Autopotion
 Data/Hora: 2025-07-19 16:25:40 | Usuário: lonely | IP Local: 186.244.151.139 | App: ViKinG Autopick
 Data/Hora: 2025-07-19 19:12:20 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
+Data/Hora: 2025-07-19 19:29:50 | Usuário: rodrigo | IP Local: 189.113.51.105 | App: ViKinG Autopick
