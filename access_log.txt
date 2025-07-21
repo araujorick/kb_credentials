@@ -18,3 +18,4 @@ Data/Hora: 2025-07-20 17:33:16 | Usuário: admin | IP Local: [OCULTO] | App: ViK
 Data/Hora: 2025-07-20 19:28:56 | Usuário: thiagovip | IP Local: 201.4.54.182 | App: ViKinG Autopotion
 Data/Hora: 2025-07-20 20:51:27 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
 Data/Hora: 2025-07-20 21:02:14 | Usuário: juliovip | IP Local: 190.102.47.52 | App: ViKinG Autopotion
+Data/Hora: 2025-07-20 21:02:22 | Usuário: rodrigo | IP Local: 189.113.51.105 | App: ViKinG Autopotion
