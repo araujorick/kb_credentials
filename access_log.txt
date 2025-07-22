@@ -24,3 +24,4 @@ Data/Hora: 2025-07-22 14:04:46 | Usuário: victorvip | IP Local: 168.196.89.5 | 
 Data/Hora: 2025-07-22 18:09:14 | Usuário: lonely | IP Local: 186.244.151.139 | App: ViKinG Autopotion
 Data/Hora: 2025-07-22 19:40:28 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopick
 Data/Hora: 2025-07-22 19:50:32 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopick
+Data/Hora: 2025-07-22 19:53:17 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
