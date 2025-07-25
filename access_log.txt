@@ -2,3 +2,4 @@ Data/Hora: 2025-07-24 20:16:55 | Usuário: lonely | IP Local: 186.244.151.139 | 
 Data/Hora: 2025-07-24 20:40:49 | Usuário: mateus | IP Local: 177.67.47.247 | App: ViKinG Autopick
 Data/Hora: 2025-07-24 22:03:34 | Usuário: rafaelvip | IP Local: 200.53.199.156 | App: ViKinG Autopotion
 Data/Hora: 2025-07-24 21:01:36 | Usuário: mateus | IP Local: 177.67.47.247 | App: ViKinG Autopick
+Data/Hora: 2025-07-24 22:05:42 | Usuário: victorvip | IP Local: 168.196.89.54 | App: ViKinG Autopotion
