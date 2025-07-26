@@ -1,3 +1,4 @@
 Data/Hora: 2025-07-26 09:59:22 | Usuário: rafaelvip | IP Local: 200.53.194.180 | App: ViKinG Autopotion
 Data/Hora: 2025-07-26 11:10:02 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick S/D
 Data/Hora: 2025-07-26 12:30:27 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick S/D
+Data/Hora: 2025-07-26 14:09:28 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick C/D
