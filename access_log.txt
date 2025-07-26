@@ -3,3 +3,4 @@ Data/Hora: 2025-07-25 20:31:54 | Usuário: rafaelvip | IP Local: 200.53.196.48 |
 Data/Hora: 2025-07-25 20:31:47 | Usuário: rafaelvip | IP Local: 200.53.196.48 | App: ViKinG Autopotion
 Data/Hora: 2025-07-25 21:16:15 | Usuário: rafaelvip | IP Local: 200.53.196.48 | App: ViKinG Autopotion
 Data/Hora: 2025-07-25 21:39:58 | Usuário: douglas | IP Local: 189.29.146.34 | App: ViKinG Autopotion
+Data/Hora: 2025-07-25 21:40:13 | Usuário: lilonvip | IP Local: 201.131.85.148 | App: ViKinG Autopotion
