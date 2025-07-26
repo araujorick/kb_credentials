@@ -6,3 +6,4 @@ Data/Hora: 2025-07-26 14:13:47 | Usuário: admin | IP Local: [OCULTO] | App: VKG
 Data/Hora: 2025-07-26 14:20:58 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick C/D | Versão: 1.2.3-SM
 Data/Hora: 2025-07-26 14:36:24 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick S/D | Versão: 1.2.4
 Data/Hora: 2025-07-26 14:42:22 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopick S/D | Versão: 1.2.4
+Data/Hora: 2025-07-26 16:11:46 | Usuário: rafaelvip | IP Local: 200.53.194.180 | App: VKG Autopick C/D | Versão: 1.2.4-SM
