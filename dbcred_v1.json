@@ -158,7 +158,7 @@
             "usuario": "lilon",
             "senha": "b96b5a49fd97f5aadcf66607a718c4be2cc3c733cf9de60ca46e6fb93bb918a8",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
