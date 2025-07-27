@@ -43,6 +43,17 @@
                 "ativa": true,
                 "expira": "02-08-2025"
             }
+        },
+        {
+            "usuario": "thiago",
+            "senha": "d777f4faad0acec16d7685a06a267db65e50d1f9a28f6258e31a61275b2e1281",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "31-08-2025"
+            }
         }
     ]
 }
