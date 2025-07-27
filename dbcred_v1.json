@@ -18,8 +18,8 @@
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
-                "ativa": false,
-                "expira": "27-07-2025"
+                "ativa": true,
+                "expira": "01-08-2025"
             }
         }
     ]
