@@ -65,6 +65,17 @@
                 "ativa": false,
                 "expira": "27-07-2025"
             }
+        },
+        {
+            "usuario": "rafael",
+            "senha": "76534815980fac995af04cac574dd34750ff80aabf2d467bba4b0672740517eb",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "22-07-2026"
+            }
         }
     ]
 }
