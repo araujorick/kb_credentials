@@ -37,7 +37,7 @@
             "usuario": "diego",
             "senha": "74cbe7ac394d28b88afdb3862b63524753d52e5ff1676245e4eee5fb3a6d7810",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
