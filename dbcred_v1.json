@@ -125,7 +125,7 @@
             "usuario": "douglas",
             "senha": "da2dbfc1bbdc9fecd88c0c48df8497606b7d30d9f0e2533b25d244c96537d805",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
