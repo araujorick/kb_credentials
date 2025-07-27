@@ -76,6 +76,17 @@
                 "ativa": true,
                 "expira": "22-07-2026"
             }
+        },
+        {
+            "usuario": "anjoazazel",
+            "senha": "451053160988e110ba9fbef49d9b544364a84e8d04eb308ad32aeb6e2d51331b",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "12-08-2025"
+            }
         }
     ]
 }
