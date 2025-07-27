@@ -103,7 +103,7 @@
             "usuario": "rodrigohospital",
             "senha": "2749f8c38d7ad3ba79aeacba00afa0ffba72d853012d734800b4830437e8b1db",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
