@@ -89,17 +89,6 @@
             }
         },
         {
-            "usuario": "rodrigohospital",
-            "senha": "2749f8c38d7ad3ba79aeacba00afa0ffba72d853012d734800b4830437e8b1db",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "21-08-2025"
-            }
-        },
-        {
             "usuario": "victor",
             "senha": "09ba1ad7b233f85209b9a1ec9a43f396b7d84b5d0f07aa3fe8aed5a310f622c3",
             "bloqueado": false,
