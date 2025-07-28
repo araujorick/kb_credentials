@@ -11,3 +11,4 @@ Data/Hora: 2025-07-27 19:27:16 | Usuário: thiago | IP Local: 201.4.54.182 | App
 Data/Hora: 2025-07-27 20:01:47 | Usuário: lilon | IP Local: 201.131.85.148 | App: ViKinG Autopotion
 Data/Hora: 2025-07-27 20:04:12 | Usuário: lilon | IP Local: 201.131.85.148 | App: VKG Autopick C/D | Versão: 1.2.5-MG
 Data/Hora: 2025-07-27 20:09:14 | Usuário: lilon | IP Local: 201.131.85.148 | App: VKG Autopick C/D | Versão: 1.2.5-SM
+Data/Hora: 2025-07-27 21:01:47 | Usuário: rodrigo | IP Local: 186.194.156.245 | App: VKG Autopick S/D | Versão: 1.2.5
