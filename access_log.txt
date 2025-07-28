@@ -1,3 +1,4 @@
 Data/Hora: 2025-07-27 21:52:45 | Usuário: rodrigo | IP Local: 186.194.158.229 | App: ViKinG Autopotion
 Data/Hora: 2025-07-27 21:53:27 | Usuário: testeassinatura | IP Local: 177.37.170.198 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-07-27 21:53:59 | Usuário: douglas | IP Local: 189.29.146.34 | App: ViKinG Autopotion
+Data/Hora: 2025-07-27 22:02:35 | Usuário: rodrigo | IP Local: 186.194.158.229 | App: VKG Autopick S/D | Versão: 1.2.5
