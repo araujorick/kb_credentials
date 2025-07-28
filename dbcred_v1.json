@@ -142,6 +142,17 @@
                 "ativa": true,
                 "expira": "28-08-2025"
             }
+        },
+        {
+            "usuario": "rodrigo",
+            "senha": "4696efd0e90fa926d48c23407712defa8b5a75832916ac93eeb28fba02e0e8ff",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "21-08-2025"
+            }
         }
     ]
 }
