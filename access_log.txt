@@ -3,3 +3,4 @@ Data/Hora: 2025-07-28 08:12:38 | Usuário: rodrigo | IP Local: 189.113.51.74 | A
 Data/Hora: 2025-07-28 08:18:26 | Usuário: rodrigo | IP Local: 189.113.51.74 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-07-28 09:10:20 | Usuário: rodrigohospital | IP Local: 177.73.104.64 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-07-28 09:36:01 | Usuário: testeassinatura | IP Local: 200.53.199.70 | App: VKG Autopick C/D | Versão: 1.2.5-SM
+Data/Hora: 2025-07-28 09:51:58 | Usuário: rafael | IP Local: 200.53.199.70 | App: VKG Autopick C/D | Versão: 1.2.5-MG
