@@ -172,7 +172,7 @@
             "autopotion": false,
             "log_acesso": [],
             "assinatura": {
-                "ativa": true,
+                "ativa": false,
                 "expira": "27-07-2025"
             }
         }
