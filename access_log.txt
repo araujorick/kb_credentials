@@ -14,3 +14,4 @@ Data/Hora: 2025-07-29 20:49:55 | Usuário: douglas | IP Local: 189.29.146.34 | A
 Data/Hora: 2025-07-29 20:52:12 | Usuário: douglas | IP Local: 189.29.146.34 | App: VKG Autopotion
 Data/Hora: 2025-07-29 20:55:55 | Usuário: admin | IP Local: [OCULTO] | App: VKG Autopotion
 Data/Hora: 2025-07-29 20:57:58 | Usuário: rafael | IP Local: 200.53.193.29 | App: VKG Autopotion
+Data/Hora: 2025-07-29 20:58:36 | Usuário: lilon | IP Local: 201.131.138.104 | App: VKG Autopotion
