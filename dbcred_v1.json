@@ -113,7 +113,7 @@
         {
             "usuario": "mateus",
             "senha": "74a2372a4b06fb8d23c4a1f7a03cf2debc43e7ac080a5ff9bc8bea1708a35d84",
-            "bloqueado": false,
+            "bloqueado": true,
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
