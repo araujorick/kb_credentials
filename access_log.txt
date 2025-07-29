@@ -3,3 +3,4 @@ Data/Hora: 2025-07-29 17:13:53 | Usuário: douglas | IP Local: 189.29.146.34 | A
 Data/Hora: 2025-07-29 19:00:43 | Usuário: rafael | IP Local: 200.53.193.29 | App: ViKinG Autopotion
 Data/Hora: 2025-07-29 19:06:24 | Usuário: rafael | IP Local: 200.53.193.29 | App: VKG Autopick C/D | Versão: 1.2.5-SM
 Data/Hora: 2025-07-29 19:26:40 | Usuário: victor | IP Local: 168.196.89.131 | App: VKG Autopick C/D | Versão: 1.2.5-SM
+Data/Hora: 2025-07-29 19:36:55 | Usuário: admin | IP Local: [OCULTO] | App: ViKinG Autopotion
