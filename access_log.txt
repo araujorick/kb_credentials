@@ -1,2 +1,3 @@
 Data/Hora: 2025-07-29 12:46:30 | Usuário: mateus | IP Local: 177.67.47.255 | App: VKG Autopick C/D | Versão: 1.2.5-SM
 Data/Hora: 2025-07-29 12:43:58 | Usuário: mateus | IP Local: 177.67.47.255 | App: VKG Autopick C/D | Versão: 1.2.5-MG
+Data/Hora: 2025-07-29 12:47:18 | Usuário: mateus | IP Local: 177.67.47.255 | App: ViKinG Autopotion
