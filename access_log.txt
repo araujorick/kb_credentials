@@ -18,3 +18,4 @@ Data/Hora: 2025-07-30 05:52:19 | Usuário: rafael | IP Local: 200.53.193.29 | Ap
 Data/Hora: 2025-07-30 06:51:17 | Usuário: julio | IP Local: 190.102.47.4 | App: VKG Autopick C/D | Versão: 1.2.6-SM
 Data/Hora: 2025-07-30 18:34:15 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopick C/D | Versão: 1.2.6-MG
 Data/Hora: 2025-07-30 19:23:06 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopotion
+Data/Hora: 2025-07-30 19:53:16 | Usuário: testeassinatura | IP Local: 200.53.195.101 | App: VKG Autopick C/D | Versão: 1.2.6-SM
