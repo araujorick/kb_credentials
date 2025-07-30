@@ -164,17 +164,6 @@
                 "ativa": true,
                 "expira": "31-07-2025"
             }
-        },
-        {
-            "usuario": "julio",
-            "senha": "69b60cb9e2bd42ab9ae190b9df150b2f01b38fa255d1a4c441615f6b6b18a6a7",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "29-08-2025"
-            }
         }
     ]
 }
