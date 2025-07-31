@@ -175,6 +175,17 @@
                 "ativa": true,
                 "expira": "29-08-2025"
             }
+        },
+        {
+            "usuario": "gui",
+            "senha": "0704fc850b71ed195aaf043de5ab436cbd2f30747484e84ccfdebb600d0a7416",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "31-08-2025"
+            }
         }
     ]
 }
