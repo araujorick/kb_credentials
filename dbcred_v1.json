@@ -135,7 +135,7 @@
         {
             "usuario": "rodrigo",
             "senha": "4696efd0e90fa926d48c23407712defa8b5a75832916ac93eeb28fba02e0e8ff",
-            "bloqueado": true,
+            "bloqueado": false,
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
