@@ -179,7 +179,7 @@
         {
             "usuario": "gui",
             "senha": "0704fc850b71ed195aaf043de5ab436cbd2f30747484e84ccfdebb600d0a7416",
-            "bloqueado": false,
+            "bloqueado": true,
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
