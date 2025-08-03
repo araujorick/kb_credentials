@@ -36,3 +36,4 @@ Data/Hora: 2025-08-03 17:41:44 | Usuário: testeassinatura | IP Local: 177.37.17
 Data/Hora: 2025-08-03 17:43:32 | Usuário: testeassinatura | IP Local: 177.37.170.198 | App: VKG Autopick S/D | Versão: 1.2.6
 Data/Hora: 2025-08-03 17:48:35 | Usuário: testeassinatura | IP Local: 177.37.170.198 | App: VKG Autopick S/D | Versão: 1.2.6
 Data/Hora: 2025-08-03 19:25:37 | Usuário: testeassinatura | IP Local: 177.37.170.198 | App: VKG Autopotion
+Data/Hora: 2025-08-03 19:32:51 | Usuário: julio | IP Local: 190.102.47.4 | App: VKG Autopick S/D | Versão: 1.2.5
