@@ -44,3 +44,4 @@ Data/Hora: 2025-08-03 20:18:26 | Usuário: rafael | IP Local: 200.53.193.5 | App
 Data/Hora: 2025-08-03 20:28:56 | Usuário: gui | IP Local: 177.130.9.124 | App: VKG Autopotion
 Data/Hora: 2025-08-03 20:35:10 | Usuário: lilon | IP Local: 201.131.138.104 | App: VKG Autopotion
 Data/Hora: 2025-08-03 19:34:58 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopotion
+Data/Hora: 2025-08-03 20:44:31 | Usuário: pablo | IP Local: 201.8.24.200 | App: VKG Autopotion
