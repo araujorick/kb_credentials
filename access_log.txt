@@ -3,3 +3,4 @@ Data/Hora: 2025-08-03 11:47:52 | Usuário: victor | IP Local: 168.196.88.238 | A
 Data/Hora: 2025-08-03 11:50:15 | Usuário: victor | IP Local: 168.196.88.238 | App: VKG Autopotion
 Data/Hora: 2025-08-03 11:53:21 | Usuário: victor | IP Local: 168.196.88.238 | App: VKG Autopotion
 Data/Hora: 2025-08-03 11:54:00 | Usuário: victor | IP Local: 168.196.88.238 | App: VKG Autopotion
+Data/Hora: 2025-08-03 12:08:57 | Usuário: rafael | IP Local: 200.53.193.5 | App: VKG Autopick C/D | Versão: 1.2.6-SM
