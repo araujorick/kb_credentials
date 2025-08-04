@@ -64,3 +64,4 @@ Data/Hora: 2025-08-04 00:34:51 | Usuário: rodrigo | IP Local: 189.113.50.235 | 
 Data/Hora: 2025-08-04 00:13:29 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopick C/D | Versão: 1.2.6-SM
 Data/Hora: 2025-08-04 00:36:51 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-08-04 02:21:29 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopick S/D | Versão: 1.2.5
+Data/Hora: 2025-08-04 05:59:24 | Usuário: rafael | IP Local: 200.53.193.5 | App: VKG Autopick S/D | Versão: 1.2.5
