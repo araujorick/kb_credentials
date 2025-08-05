@@ -11,3 +11,4 @@ Data/Hora: 2025-08-04 23:08:17 | Usuário: rodrigohospital | IP Local: 177.73.10
 Data/Hora: 2025-08-05 07:00:14 | Usuário: lilon | IP Local: 201.131.138.104 | App: VKG Autopotion
 Data/Hora: 2025-08-05 10:54:54 | Usuário: victor | IP Local: 168.196.88.232 | App: VKG Autopotion
 Data/Hora: 2025-08-05 10:58:40 | Usuário: victor | IP Local: 168.196.88.232 | App: VKG Autopotion
+Data/Hora: 2025-08-05 13:44:09 | Usuário: gui | IP Local: 177.130.9.11 | App: VKG Autopick C/D | Versão: 1.2.6-SM
