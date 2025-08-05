@@ -186,6 +186,17 @@
                 "ativa": true,
                 "expira": "31-08-2025"
             }
+        },
+        {
+            "usuario": "victorm",
+            "senha": "9cd91f77b684eafe7129745b7a7336a4f7d2073117bfd9efc61517d4229e71eb",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "05-09-2025"
+            }
         }
     ]
 }
