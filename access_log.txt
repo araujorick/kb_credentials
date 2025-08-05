@@ -21,3 +21,4 @@ Data/Hora: 2025-08-05 19:00:24 | Usuário: marcos | IP Local: 186.244.151.139 | 
 Data/Hora: 2025-08-05 20:32:44 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.6-SM
 Data/Hora: 2025-08-05 20:37:13 | Usuário: victorm | IP Local: 45.160.120.230 | App: VKG Autopick C/D | Versão: 1.2.6-SM
 Data/Hora: 2025-08-05 20:44:13 | Usuário: victorm | IP Local: 45.160.120.230 | App: VKG Autopotion
+Data/Hora: 2025-08-05 20:45:50 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.6-SM
