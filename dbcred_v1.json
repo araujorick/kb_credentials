@@ -213,7 +213,7 @@
             "usuario": "weric",
             "senha": "9d994f3f1661313de2ec01049489bbe0534555eddbcf70c8677b84f8791e5702",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
