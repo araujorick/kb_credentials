@@ -71,3 +71,4 @@ Data/Hora: 2025-08-06 00:55:16 | Usuário: weric | IP Local: 168.227.75.195 | Ap
 Data/Hora: 2025-08-06 01:12:16 | Usuário: weric | IP Local: 168.227.75.195 | App: VKG Autopick C/D | Versão: 1.2.7-SM
 Data/Hora: 2025-08-06 01:14:15 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.7-MG
 Data/Hora: 2025-08-06 01:24:43 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.7-SM
+Data/Hora: 2025-08-06 01:53:45 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopick C/D | Versão: 1.2.7-MG
