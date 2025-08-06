@@ -201,7 +201,7 @@
         {
             "usuario": "moises",
             "senha": "958939ffad940756a9f5502867cd380c17d80541f85db2fe4e5b50d09228efd5",
-            "bloqueado": false,
+            "bloqueado": true,
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
