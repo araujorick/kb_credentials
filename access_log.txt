@@ -83,3 +83,4 @@ Data/Hora: 2025-08-06 08:05:33 | Usuário: rodrigo | IP Local: 189.113.50.235 | 
 Data/Hora: 2025-08-06 08:55:28 | Usuário: rodrigohospital | IP Local: 177.73.104.64 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-08-06 10:17:13 | Usuário: rodrigohospital | IP Local: 177.73.104.64 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-08-06 11:06:32 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.7-SM
+Data/Hora: 2025-08-06 11:12:13 | Usuário: moises | IP Local: 177.189.187.174 | App: VKG Autopick C/D | Versão: 1.2.7-MG
