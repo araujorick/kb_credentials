@@ -14,3 +14,4 @@ Data/Hora: 2025-08-06 22:53:38 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 Data/Hora: 2025-08-06 22:30:54 | Usuário: mateus | IP Local: 177.67.47.248 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-08-07 01:19:31 | Usuário: weric | IP Local: 168.227.75.195 | App: VKG Autopick S/D | Versão: 1.2.5
 Data/Hora: 2025-08-07 02:03:26 | Usuário: weric | IP Local: 168.227.75.195 | App: VKG Autopick S/D | Versão: 1.2.5
+Data/Hora: 2025-08-07 04:21:51 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopick C/D | Versão: 1.2.7-MG
