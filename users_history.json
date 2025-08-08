@@ -12,5 +12,19 @@
       "machine": "a92e5a38d35daea0",
       "versao": "1.2.7-MG"
     }
+  ],
+  "rafael": [
+    {
+      "ts": "2025-08-07 21:29:18",
+      "ip": "200.53.196.189",
+      "pfx24": "200.53.196.0/24",
+      "cidade": "Desconhecido",
+      "estado": "Desconhecido",
+      "pais": "Desconhecido",
+      "isp": "Desconhecido",
+      "asn": "Desconhecido",
+      "machine": "77f7d2743fdfcc5f",
+      "versao": "1.2.7-SM"
+    }
   ]
 }
