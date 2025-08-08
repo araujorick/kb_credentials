@@ -59,6 +59,16 @@
       "isp": "Desconhecido",
       "machine": "9fd80110c1a8f057",
       "versao": "1.2.7-SM"
+    },
+    {
+      "ts": "2025-08-07 22:34:16",
+      "ip": "200.53.193.132",
+      "cidade": "Guarulhos",
+      "estado": "São Paulo",
+      "pais": "Brazil",
+      "isp": "Redfox Telecomunicacoes Ltda.",
+      "machine": "368d6d96919bb7be",
+      "versao": "1.2.7-SM"
     }
   ]
 }
