@@ -69,6 +69,16 @@
       "isp": "Redfox Telecomunicacoes Ltda.",
       "machine": "368d6d96919bb7be",
       "versao": "1.2.7-SM"
+    },
+    {
+      "ts": "2025-08-08 19:06:52",
+      "ip": "200.53.193.132",
+      "cidade": "Desconhecido",
+      "estado": "Desconhecido",
+      "pais": "Desconhecido",
+      "isp": "Desconhecido",
+      "machine": "9fd80110c1a8f057",
+      "versao": "1.2.7-SM"
     }
   ]
 }
