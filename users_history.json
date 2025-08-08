@@ -19,6 +19,16 @@
       "isp": "Desconhecido",
       "machine": "a92e5a38d35daea0",
       "versao": "1.2.7-SM"
+    },
+    {
+      "ts": "2025-08-07 22:16:04",
+      "ip": "200.53.193.132",
+      "cidade": "Desconhecido",
+      "estado": "Desconhecido",
+      "pais": "Desconhecido",
+      "isp": "Desconhecido",
+      "machine": "368d6d96919bb7be",
+      "versao": "1.2.7-SM"
     }
   ]
 }
