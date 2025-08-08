@@ -224,7 +224,7 @@
             "usuario": "doug",
             "senha": "d7118e70af316460749cbf0aa55aecfe496e664c5d0ef84661317ec70ea2be97",
             "bloqueado": false,
-            "autopotion": false,
+            "autopotion": true,
             "log_acesso": [],
             "assinatura": {
                 "ativa": true,
