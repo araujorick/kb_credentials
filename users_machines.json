@@ -1,6 +1,11 @@
 {
-  "rafael": [
-    "368d6d96919bb7be",
-    "9fd80110c1a8f057"
-  ]
+  "rafael": {
+    "autorizadas": [
+      "368d6d96919bb7be",
+      "9fd80110c1a8f057"
+    ],
+    "pendentes": [
+      "a92e5a38d35daea0"
+    ]
+  }
 }
