@@ -7,10 +7,9 @@
   },
   "rafael": {
     "autorizadas": [
-      "368d6d96919bb7be"
-    ],
-    "pendentes": [
+      "368d6d96919bb7be",
       "9fd80110c1a8f057"
-    ]
+    ],
+    "pendentes": []
   }
 }
