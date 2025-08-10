@@ -12,3 +12,4 @@ Data/Hora: 2025-08-10 14:13:28 | Usuário: douglas | IP Local: 189.29.146.34 | A
 2025-08-10 16:28:37 | winuser: guilh | appuser: gui | estado: RJ | FALHA: senha incorreta | ed9186b725141264 | Autopotion
 2025-08-10 16:29:50 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: primeira máquina autorizada | ed9186b725141264 | Autopotion
 2025-08-10 19:54:10 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: primeira máquina autorizada | 0fa8e760dd30e953 | Autopotion
+2025-08-10 20:08:10 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
