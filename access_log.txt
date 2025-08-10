@@ -9,3 +9,4 @@ Data/Hora: 2025-08-09 23:09:20 | Usuário: rodrigo | IP Local: 189.113.49.171 | 
 2025-08-09 23:57:48 | winuser: Cliente | appuser: mateus | estado: RO | SUCESSO: máquina autorizada | 2decff8f85965a66
 2025-08-10 01:11:05 | winuser: weric alvino | appuser: weric | estado: SE | SUCESSO: primeira máquina autorizada | a7ff093dd1fdad94
 Data/Hora: 2025-08-10 14:13:28 | Usuário: douglas | IP Local: 189.29.146.34 | App: VKG Autopotion
+2025-08-10 16:28:37 | winuser: guilh | appuser: gui | estado: RJ | FALHA: senha incorreta | ed9186b725141264 | Autopotion
