@@ -17,3 +17,4 @@ Data/Hora: 2025-08-10 14:13:28 | Usuário: douglas | IP Local: 189.29.146.34 | A
 2025-08-10 20:34:19 | winuser: julio | appuser: julio | estado: SP | SUCESSO: primeira máquina autorizada | 0b93503c44e25cc4 | Autopotion
 Data/Hora: 2025-08-10 19:56:15 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopotion
 2025-08-10 21:12:30 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 2ec540acf1903df1 | Autopotion
+2025-08-10 21:12:49 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 2ec540acf1903df1 | Autopotion
