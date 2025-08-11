@@ -56,3 +56,4 @@ Data/Hora: 2025-08-11 14:33:19 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-11 16:09:48 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
 2025-08-11 16:21:42 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
 2025-08-11 16:48:53 | winuser: PC_07 | appuser: moises | estado: SP | FALHA: senha incorreta | 19cc454cce196306
+2025-08-11 16:49:01 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
