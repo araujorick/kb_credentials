@@ -39,3 +39,4 @@ Data/Hora: 2025-08-11 08:06:35 | Usuário: rafael | IP Local: 200.53.196.174 | A
 2025-08-11 08:12:19 | winuser: Cliente | appuser: mateus | estado: RO | SUCESSO: máquina autorizada | 2decff8f85965a66 | Autopotion
 2025-08-11 09:26:29 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: acesso não autorizado (pendente) | a5eda1902fd45788
 Data/Hora: 2025-08-11 09:51:43 | Usuário: moises | IP Local: 177.188.38.245 | App: VKG Autopick C/D | Versão: 1.2.7-MG
+2025-08-11 09:56:02 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
