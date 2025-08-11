@@ -63,11 +63,10 @@
   },
   "moises": {
     "autorizadas": [
-      "0b007d69bce6d48d"
-    ],
-    "pendentes": [
+      "0b007d69bce6d48d",
       "19cc454cce196306"
-    ]
+    ],
+    "pendentes": []
   },
   "victorm": {
     "autorizadas": [
