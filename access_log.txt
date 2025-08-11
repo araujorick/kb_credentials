@@ -51,3 +51,4 @@ Data/Hora: 2025-08-11 09:51:43 | Usuário: moises | IP Local: 177.188.38.245 | A
 2025-08-11 13:34:28 | winuser: PC_07 | appuser: moises | estado: SP | FALHA: acesso não autorizado (pendente) | 19cc454cce196306
 2025-08-11 14:09:26 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
 2025-08-11 14:15:08 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
+Data/Hora: 2025-08-11 14:33:19 | Usuário: julio | IP Local: 190.102.47.61 | App: VKG Autopick S/D | Versão: 1.2.5
