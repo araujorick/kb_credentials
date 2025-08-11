@@ -26,3 +26,4 @@ Data/Hora: 2025-08-10 21:39:23 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-10 21:53:55 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | fab1cc3cbbaf69a2 | Autopotion
 2025-08-10 21:54:03 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: máquina pendente | fab1cc3cbbaf69a2 | Autopotion
 2025-08-10 21:54:08 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: máquina pendente | fab1cc3cbbaf69a2 | Autopotion
+2025-08-10 21:55:48 | winuser: PICHAU | appuser: teste3 | estado: SP | SUCESSO: primeira máquina autorizada | 2ec540acf1903df1 | Autopotion
