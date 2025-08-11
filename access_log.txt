@@ -64,3 +64,4 @@ Data/Hora: 2025-08-11 19:51:21 | Usuário: julio | IP Local: 190.102.47.61 | App
 Data/Hora: 2025-08-11 20:04:48 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopick C/D | Versão: 1.2.7-SM
 Data/Hora: 2025-08-11 19:12:20 | Usuário: marcos | IP Local: 186.244.151.139 | App: VKG Autopick C/D | Versão: 1.2.7-SM
 Data/Hora: 2025-08-11 20:21:55 | Usuário: douglas | IP Local: 189.29.146.34 | App: VKG Autopotion
+2025-08-11 20:51:07 | winuser: Gamer | appuser: lilon | estado: SC | SUCESSO: primeira máquina autorizada | 17cfb0efe6bf7671 | Autopotion
