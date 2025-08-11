@@ -10,7 +10,7 @@
       "2ec540acf1903df1",
       "fab1cc3cbbaf69a2"
     ],
-    "pendentes": [ ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
@@ -57,6 +57,12 @@
   "rodrigo": {
     "autorizadas": [
       "66d30b347801c0b1"
+    ],
+    "pendentes": []
+  },
+  "moises": {
+    "autorizadas": [
+      "0b007d69bce6d48d"
     ],
     "pendentes": []
   }
