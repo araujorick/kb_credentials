@@ -74,3 +74,4 @@ Data/Hora: 2025-08-11 20:21:55 | Usuário: douglas | IP Local: 189.29.146.34 | A
 2025-08-12 08:57:57 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
 2025-08-12 09:02:03 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788 | Autopotion
 2025-08-12 09:03:05 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
+2025-08-12 14:46:08 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
