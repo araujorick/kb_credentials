@@ -97,3 +97,4 @@ Data/Hora: 2025-08-11 20:21:55 | Usuário: douglas | IP Local: 189.29.146.34 | A
 2025-08-13 09:47:08 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
 2025-08-13 09:47:50 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
 2025-08-13 09:54:42 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
+2025-08-13 12:32:35 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
