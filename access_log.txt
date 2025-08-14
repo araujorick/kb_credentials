@@ -118,3 +118,4 @@ Data/Hora: 2025-08-14 03:25:02 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-14 15:15:41 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
 2025-08-14 15:18:57 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
 2025-08-14 18:23:48 | winuser: victo | appuser: victorm | estado: RJ | FALHA: senha incorreta | 318478b591b0488b
+2025-08-14 18:23:50 | winuser: victo | appuser: victorm | estado: RJ | FALHA: senha incorreta | 318478b591b0488b
