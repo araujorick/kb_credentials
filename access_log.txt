@@ -110,3 +110,4 @@ Data/Hora: 2025-08-14 00:50:35 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-14 02:25:40 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
 2025-08-14 03:13:44 | winuser: thiag | appuser: thiago | estado: BA | FALHA: senha incorreta | 988bfb89aeb68265
 2025-08-14 03:13:52 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
+Data/Hora: 2025-08-14 03:25:02 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopotion
