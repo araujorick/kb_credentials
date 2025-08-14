@@ -124,3 +124,4 @@ Data/Hora: 2025-08-14 03:25:02 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-14 18:40:16 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 00d1cc876f576161 | Autopotion
 2025-08-14 18:47:26 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 00d1cc876f576161
 2025-08-14 18:51:43 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 00d1cc876f576161 | Autopotion
+2025-08-14 18:52:31 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | fab1cc3cbbaf69a2
