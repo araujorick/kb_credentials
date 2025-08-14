@@ -107,3 +107,4 @@ Data/Hora: 2025-08-13 22:06:47 | Usuário: moises | IP Local: 177.188.38.245 | A
 2025-08-13 22:28:48 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
 2025-08-13 23:12:55 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
 Data/Hora: 2025-08-14 00:50:35 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopotion
+2025-08-14 02:25:40 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
