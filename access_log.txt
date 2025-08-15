@@ -144,3 +144,4 @@ Data/Hora: 2025-08-14 22:16:01 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-15 10:39:48 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2025-08-15 14:07:41 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-08-15 14:42:41 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
+Data/Hora: 2025-08-15 17:52:55 | Usuário: julio | IP Local: 190.102.47.61 | App: VKG Autopick S/D | Versão: 1.2.5
