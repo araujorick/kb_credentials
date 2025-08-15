@@ -133,3 +133,4 @@ Data/Hora: 2025-08-14 03:25:02 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-14 21:36:42 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1 | Autopotion
 2025-08-14 21:37:32 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1 | Autopotion
 Data/Hora: 2025-08-14 22:16:01 | Usuário: thiago | IP Local: 189.70.246.15 | App: VKG Autopotion
+2025-08-14 22:41:21 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
