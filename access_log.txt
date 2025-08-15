@@ -139,3 +139,4 @@ Data/Hora: 2025-08-14 22:16:01 | Usuário: thiago | IP Local: 189.70.246.15 | Ap
 2025-08-15 01:51:59 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
 2025-08-15 03:19:58 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
 2025-08-15 05:37:55 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: usuário bloqueado | fab1cc3cbbaf69a2
+2025-08-15 09:35:52 | winuser: Junior | appuser: moises | estado: SP | FALHA: acesso não autorizado (pendente) | 022f631266e5845b
