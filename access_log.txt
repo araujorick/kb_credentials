@@ -207,3 +207,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-17 18:03:28 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953 | Autopotion
 2025-08-17 18:09:04 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
 2025-08-17 18:22:02 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | b486b7cba95ed21d
+2025-08-17 18:25:06 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
