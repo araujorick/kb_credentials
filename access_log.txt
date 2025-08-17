@@ -190,3 +190,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-16 23:40:04 | winuser: PICHAU | appuser: testeassinatura | estado: SP | FALHA: acesso não autorizado (pendente) | b486b7cba95ed21d | Autopotion
 2025-08-16 23:40:06 | winuser: PICHAU | appuser: testeassinatura | estado: SP | FALHA: máquina pendente | b486b7cba95ed21d | Autopotion
 2025-08-16 23:41:46 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | b486b7cba95ed21d | Autopotion
+2025-08-16 23:55:11 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | b486b7cba95ed21d
