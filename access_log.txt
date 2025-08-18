@@ -244,3 +244,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-18 14:17:57 | winuser: Junior | appuser: moises | estado: SP | FALHA: máquina pendente | 022f631266e5845b
 2025-08-18 15:24:03 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: primeira máquina autorizada | 92934584f094d294
 2025-08-18 19:51:17 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
+2025-08-18 19:52:44 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
