@@ -249,3 +249,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-18 20:16:51 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 2345f3bf9cbc8df6
 2025-08-18 20:17:10 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 2345f3bf9cbc8df6
 2025-08-18 20:17:17 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 2345f3bf9cbc8df6
+2025-08-18 20:17:19 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 2345f3bf9cbc8df6
