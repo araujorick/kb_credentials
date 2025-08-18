@@ -240,3 +240,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-17 22:50:57 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | b486b7cba95ed21d
 2025-08-18 01:10:35 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953
 2025-08-18 05:56:41 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | b486b7cba95ed21d
+2025-08-18 12:09:10 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
