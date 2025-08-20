@@ -306,3 +306,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-20 12:28:57 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
 2025-08-20 13:04:22 | winuser: PC_07 | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 19cc454cce196306
 2025-08-20 14:39:23 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 022f631266e5845b
+2025-08-20 17:37:14 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
