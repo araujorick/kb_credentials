@@ -29,9 +29,7 @@
     "autorizadas": [
       "a7ff093dd1fdad94"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "gui": {
     "autorizadas": [
@@ -110,6 +108,12 @@
   "marcos": {
     "autorizadas": [
       "92934584f094d294"
+    ],
+    "pendentes": []
+  },
+  "anjoazazel": {
+    "autorizadas": [
+      "8d9c5d2e6db23d5a"
     ],
     "pendentes": []
   }
