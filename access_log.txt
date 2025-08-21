@@ -325,3 +325,4 @@ Data/Hora: 2025-08-15 19:22:49 | Usuário: julio | IP Local: 190.102.47.61 | App
 2025-08-21 10:49:22 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
 2025-08-21 11:33:45 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2025-08-21 12:29:38 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
+2025-08-21 12:29:47 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
