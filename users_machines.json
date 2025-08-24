@@ -8,12 +8,9 @@
   "rafael": {
     "autorizadas": [
       "b486b7cba95ed21d",
-      "fab1cc3cbbaf69a2",
-      "2345f3bf9cbc8df6"
-    ],
-    "pendentes": [
       "53555ac11ac2dae4"
-    ]
+       ],
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
