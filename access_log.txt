@@ -377,3 +377,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-24 20:20:08 | winuser: Victor | appuser: victor | estado: RJ | SUCESSO: máquina autorizada | 0fa8e760dd30e953 | Autopotion
 2025-08-24 20:31:39 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264 | Autopotion
 2025-08-24 21:11:41 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90 | Autopotion
+2025-08-24 21:22:18 | winuser: Douglas | appuser: douglas | estado: SP | FALHA: senha incorreta | 03c5ccc80a45ae90 | Autopotion
