@@ -408,3 +408,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-25 22:13:12 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096
 2025-08-25 22:35:40 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90
 2025-08-26 01:35:50 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
+2025-08-26 18:37:51 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90
