@@ -404,3 +404,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-25 14:44:17 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
 2025-08-25 14:44:26 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
 2025-08-25 20:07:41 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
+2025-08-25 21:22:33 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096 | Autopotion
