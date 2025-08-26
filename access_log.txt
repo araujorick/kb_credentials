@@ -412,3 +412,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-26 19:09:06 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096 | Autopotion
 2025-08-26 19:10:20 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | fab1cc3cbbaf69a2
 2025-08-26 19:13:59 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096
+2025-08-26 19:20:04 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
