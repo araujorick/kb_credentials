@@ -197,6 +197,17 @@
                 "ativa": true,
                 "expira": "10-09-2025"
             }
+        },
+        {
+            "usuario": "calebe",
+            "senha": "ec056f14d60fde3e286834a4612c2d31d9cb38c2a8a945e391b1d06d3ff4811e",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "26-09-2025"
+            }
         }
     ]
 }
