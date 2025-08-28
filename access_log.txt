@@ -443,3 +443,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-28 10:13:16 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: máquina pendente | ec89e9590f2d5938
 2025-08-28 10:16:39 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: máquina pendente | ec89e9590f2d5938
 2025-08-28 10:22:16 | winuser: Esdras | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | ec89e9590f2d5938
+2025-08-28 11:28:49 | winuser: Douglas | appuser: douglas | estado: SP | FALHA: senha incorreta | 03c5ccc80a45ae90
