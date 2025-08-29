@@ -452,3 +452,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-28 22:10:01 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096 | Autopotion
 2025-08-28 22:10:44 | winuser: Beka | appuser: doug | estado: PE | SUCESSO: máquina autorizada | b443af6f255e457b
 2025-08-28 22:13:25 | winuser: thiag | appuser: thiago | estado: RJ | SUCESSO: máquina autorizada | 988bfb89aeb68265 | Autopotion
+2025-08-29 13:02:01 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: senha incorreta | 5b4691bcb1f6e51d
