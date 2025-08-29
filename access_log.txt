@@ -449,3 +449,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-28 16:58:38 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5b4691bcb1f6e51d
 2025-08-28 20:14:07 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90 | Autopotion
 2025-08-28 22:07:19 | winuser: Beka | appuser: doug | estado: PE | SUCESSO: máquina autorizada | b443af6f255e457b | Autopotion
+2025-08-28 22:10:01 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 7ba1bc3e84297096 | Autopotion
