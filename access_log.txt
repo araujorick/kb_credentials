@@ -458,3 +458,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-29 13:55:48 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-08-29 20:31:49 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1 | Autopotion
 2025-08-29 22:04:32 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 8df91c0a60cdabd4
+2025-08-29 22:12:33 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: máquina pendente | 8df91c0a60cdabd4
