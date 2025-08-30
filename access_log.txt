@@ -468,3 +468,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-30 02:28:43 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-08-30 02:30:55 | winuser: thiag | appuser: thiago | estado: RJ | SUCESSO: máquina autorizada | 988bfb89aeb68265
 2025-08-30 03:15:15 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
+2025-08-30 09:49:02 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264 | Autopotion
