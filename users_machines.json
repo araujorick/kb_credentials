@@ -123,11 +123,10 @@
   "calebe": {
     "autorizadas": [
       "5b4691bcb1f6e51d",
-      "ec89e9590f2d5938"
-    ],
-    "pendentes": [
+      "ec89e9590f2d5938",
       "8df91c0a60cdabd4"
-    ]
+    ],
+    "pendentes": []
   },
   "usuarioteste": {
     "autorizadas": [
