@@ -531,3 +531,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-31 12:07:03 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
 2025-08-31 13:12:35 | appuser: admin | FALHA: senha incorreta
 2025-08-31 13:13:26 | appuser: admin | FALHA: senha incorreta
+2025-08-31 13:13:28 | appuser: admin | FALHA: senha incorreta
