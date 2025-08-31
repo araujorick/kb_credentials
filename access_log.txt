@@ -562,3 +562,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-31 20:12:12 | winuser: Gamer | appuser: lilon | estado: SC | SUCESSO: máquina autorizada | 17cfb0efe6bf7671 | Autopotion
 2025-08-31 20:25:43 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1 | Autopotion
 2025-08-31 20:29:31 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
+2025-08-31 20:42:24 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | af25fa6be2879ce2 | Autopotion
