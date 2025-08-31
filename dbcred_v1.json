@@ -1,17 +1,6 @@
 {
     "usuario": [
         {
-            "usuario": "admin",
-            "senha": "829ec6fd4cae143ed4f2bd6149a1c86a0f1979e72c84ba45f85cdef2f3b74de9",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "10-12-2030"
-            }
-        },
-        {
             "usuario": "pablo",
             "senha": "40b1b3128a4e8795a37b19b40cb30bf993a422c1b7c037ce1536d368554333cf",
             "bloqueado": false,
