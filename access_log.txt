@@ -543,3 +543,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-08-31 13:16:18 | appuser: admin | FALHA: senha incorreta
 2025-08-31 13:17:01 | appuser: admin | FALHA: senha incorreta
 2025-08-31 13:17:47 | appuser: admin | FALHA: acesso não autorizado (pendente)
+2025-08-31 13:18:38 | appuser: admin | SUCESSO: máquina autorizada
