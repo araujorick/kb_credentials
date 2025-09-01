@@ -574,3 +574,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-01 09:25:23 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 5cd75dd03dcbcb16
 2025-09-01 09:29:23 | winuser: Esdras | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5cd75dd03dcbcb16
 2025-09-01 12:32:59 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
+2025-09-01 12:37:28 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
