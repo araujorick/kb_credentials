@@ -1,7 +1,7 @@
 {
   "admin": {
     "autorizadas": [
-       "cc7fa556e29119aa"
+      "cc7fa556e29119aa"
     ],
     "pendentes": []
   },
@@ -124,7 +124,9 @@
       "ec89e9590f2d5938",
       "8df91c0a60cdabd4"
     ],
-    "pendentes": []
+    "pendentes": [
+      "5cd75dd03dcbcb16"
+    ]
   },
   "usuarioteste": {
     "autorizadas": [
