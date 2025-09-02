@@ -596,3 +596,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-02 09:07:45 | winuser: Esdras | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5cd75dd03dcbcb16
 2025-09-02 13:55:56 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
 2025-09-02 13:56:07 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
+2025-09-02 16:31:01 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5b4691bcb1f6e51d
