@@ -594,3 +594,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-01 23:27:41 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
 2025-09-02 00:09:20 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-09-02 09:07:45 | winuser: Esdras | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5cd75dd03dcbcb16
+2025-09-02 13:55:56 | winuser: kim | appuser: anjoazazel | estado: RJ | SUCESSO: máquina autorizada | 8d9c5d2e6db23d5a
