@@ -601,3 +601,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-02 19:07:00 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 52e114ac4ee57b89
 2025-09-02 21:24:33 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90 | Autopotion
 2025-09-02 22:11:41 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 52e114ac4ee57b89
+2025-09-02 23:27:13 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
