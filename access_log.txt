@@ -604,3 +604,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-02 23:27:13 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-09-03 06:05:10 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 52e114ac4ee57b89
 2025-09-03 06:05:46 | winuser: PICHAU | appuser: teste | estado: SP | FALHA: usuário não encontrado/senha incorreta | 52e114ac4ee57b89
+2025-09-03 06:06:02 | winuser: PICHAU | appuser: teste | estado: SP | FALHA: usuário não encontrado/senha incorreta | 52e114ac4ee57b89
