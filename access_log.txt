@@ -633,3 +633,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-06 07:55:16 | winuser: Douglas | appuser: douglas | estado: SP | FALHA: senha incorreta | 03c5ccc80a45ae90
 2025-09-06 07:55:24 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90
 2025-09-06 12:28:02 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5b4691bcb1f6e51d
+2025-09-06 12:35:58 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5b4691bcb1f6e51d
