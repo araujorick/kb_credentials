@@ -629,3 +629,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-05 22:14:55 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-09-06 00:47:25 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 66d30b347801c0b1
 2025-09-06 01:20:23 | winuser: Esdras | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 1acde4be24a77047
+2025-09-06 07:54:49 | winuser: Douglas | appuser: douglas | estado: SP | FALHA: senha incorreta | 03c5ccc80a45ae90
