@@ -648,3 +648,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-06 14:29:10 | winuser: caleb | appuser: calebe | estado: SP | FALHA: máquina pendente | 909f178589fc0e9b
 2025-09-06 14:36:02 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 909f178589fc0e9b
 2025-09-06 19:13:42 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
+2025-09-06 19:32:06 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 52e114ac4ee57b89
