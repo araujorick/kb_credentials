@@ -47,7 +47,9 @@
     "autorizadas": [
       "0b93503c44e25cc4"
     ],
-    "pendentes": []
+    "pendentes": [
+      "0829c589573e4c91"
+    ]
   },
   "teste3": {
     "autorizadas": [
@@ -125,9 +127,7 @@
       "ec89e9590f2d5938",
       "909f178589fc0e9b"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "usuarioteste": {
     "autorizadas": [
