@@ -660,3 +660,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-08 00:59:12 | winuser: Douglas | appuser: douglas | estado: SP | FALHA: senha incorreta | 03c5ccc80a45ae90
 2025-09-08 00:59:21 | winuser: Douglas | appuser: douglas | estado: SP | SUCESSO: máquina autorizada | 03c5ccc80a45ae90
 2025-09-08 11:35:26 | winuser: Flexus | appuser: julio | estado: SP | FALHA: acesso não autorizado (pendente) | 0829c589573e4c91
+2025-09-08 11:35:47 | winuser: Flexus | appuser: julio | estado: SP | FALHA: máquina pendente | 0829c589573e4c91
