@@ -11,9 +11,7 @@
       "af25fa6be2879ce2",
       "5aacec7b3c5671ed"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
@@ -128,7 +126,9 @@
       "ec89e9590f2d5938",
       "909f178589fc0e9b"
     ],
-    "pendentes": []
+    "pendentes": [
+      "722058dc249f1412"
+    ]
   },
   "usuarioteste": {
     "autorizadas": [
