@@ -724,3 +724,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-13 10:45:01 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | a8523dcc09417b7e
 2025-09-13 12:40:41 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
 2025-09-13 12:44:46 | winuser: Usuario | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | fab1cc3cbbaf69a2
+2025-09-13 12:46:24 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | a8523dcc09417b7e
