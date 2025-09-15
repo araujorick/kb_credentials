@@ -9,11 +9,9 @@
     "autorizadas": [
       "fab1cc3cbbaf69a2",
       "146513b00f39301f",
-      "f76a670e6994afa8" 
+      "f76a670e6994afa8"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
@@ -75,7 +73,9 @@
       "19cc454cce196306",
       "022f631266e5845b"
     ],
-    "pendentes": []
+    "pendentes": [
+      "1f3f7b36c19b392a"
+    ]
   },
   "victorm": {
     "autorizadas": [
