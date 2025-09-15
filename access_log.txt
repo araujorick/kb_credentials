@@ -756,3 +756,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-15 18:58:44 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
 2025-09-15 19:04:00 | winuser: Junior | appuser: moiises | estado: SP | FALHA: usuário não encontrado/senha incorreta | 0b007d69bce6d48d
 2025-09-15 19:04:08 | winuser: Junior | appuser: moises | estado: SP | FALHA: senha incorreta | 0b007d69bce6d48d
+2025-09-15 19:04:29 | winuser: Junior | appuser: moises | estado: SP | SUCESSO: máquina autorizada | 0b007d69bce6d48d
