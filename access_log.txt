@@ -769,3 +769,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-15 23:04:39 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
 2025-09-16 01:47:45 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
 2025-09-16 08:52:37 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
+2025-09-16 12:32:59 | winuser: victo | appuser: victorm | estado: RJ | FALHA: senha incorreta | 318478b591b0488b
