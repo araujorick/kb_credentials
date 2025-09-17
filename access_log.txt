@@ -792,3 +792,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-17 00:57:18 | winuser: Junior | appuser: moises | estado: SP | FALHA: acesso não autorizado (pendente) | 0b007d69bce6d48d
 2025-09-17 00:57:34 | winuser: Junior | appuser: moises | estado: SP | FALHA: máquina pendente | 0b007d69bce6d48d
 2025-09-17 00:58:21 | winuser: Junior | appuser: moises | estado: SP | FALHA: máquina pendente | 0b007d69bce6d48d
+2025-09-17 13:53:21 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
