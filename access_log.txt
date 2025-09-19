@@ -816,3 +816,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-18 18:51:10 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-09-18 18:52:48 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-09-18 18:55:15 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
+2025-09-18 21:20:04 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 6df2425912fc5a04
