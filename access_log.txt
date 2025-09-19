@@ -823,3 +823,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-19 20:41:46 | winuser: julio | appuser: julio | estado: SP | FALHA: senha incorreta | 0b93503c44e25cc4
 2025-09-19 20:41:52 | winuser: julio | appuser: julio | estado: SP | FALHA: senha incorreta | 0b93503c44e25cc4
 2025-09-19 20:41:59 | winuser: julio | appuser: julio | estado: SP | FALHA: senha incorreta | 0b93503c44e25cc4
+2025-09-19 20:42:05 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
