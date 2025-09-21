@@ -838,3 +838,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-21 16:09:38 | winuser: victo | appuser: victorm | estado: RJ | FALHA: senha incorreta | 318478b591b0488b
 2025-09-21 16:09:44 | winuser: victo | appuser: victorm | estado: RJ | FALHA: senha incorreta | 318478b591b0488b
 2025-09-21 16:10:01 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
+2025-09-21 16:11:20 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
