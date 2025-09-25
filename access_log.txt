@@ -871,3 +871,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-24 18:36:12 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2025-09-24 20:07:52 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | ad24b6344143da35
 2025-09-24 21:41:49 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | ad24b6344143da35
+2025-09-24 21:42:01 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: não foi possível consultar autorização remota | ad24b6344143da35
