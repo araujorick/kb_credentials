@@ -911,3 +911,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-09-28 10:40:45 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
 2025-09-28 10:42:10 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 6820a5a9bd3ede95
 2025-09-28 11:53:05 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
+2025-09-28 12:06:43 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 6820a5a9bd3ede95
