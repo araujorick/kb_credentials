@@ -940,3 +940,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-01 22:59:11 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-10-02 01:17:00 | winuser: thiag | appuser: thiagovip | estado: BA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
 2025-10-02 01:17:08 | winuser: thiag | appuser: thiagovip | estado: BA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
+2025-10-02 01:17:15 | winuser: thiag | appuser: thiagovip | estado: BA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
