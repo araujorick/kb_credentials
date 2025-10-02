@@ -938,3 +938,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-01 21:42:41 | winuser: Usuario | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | fab1cc3cbbaf69a2
 2025-10-01 22:33:58 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 5e9204cf6dc49b1a
 2025-10-01 22:59:11 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
+2025-10-02 01:17:00 | winuser: thiag | appuser: thiagovip | estado: BA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
