@@ -969,3 +969,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-04 11:58:38 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
 2025-10-04 17:16:41 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 199a358585acb547
 2025-10-04 19:56:30 | winuser: User | appuser: rodrigo | estado: PR | FALHA: acesso não autorizado (pendente) | 220fd6e9cc74cbfd
+2025-10-04 19:57:07 | winuser: User | appuser: rodrigo | estado: PR | FALHA: máquina pendente | 220fd6e9cc74cbfd
