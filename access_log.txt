@@ -971,3 +971,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-04 19:56:30 | winuser: User | appuser: rodrigo | estado: PR | FALHA: acesso não autorizado (pendente) | 220fd6e9cc74cbfd
 2025-10-04 19:57:07 | winuser: User | appuser: rodrigo | estado: PR | FALHA: máquina pendente | 220fd6e9cc74cbfd
 2025-10-04 19:59:06 | winuser: User | appuser: rodrigo | estado: PR | FALHA: máquina pendente | 220fd6e9cc74cbfd
+2025-10-04 20:21:23 | winuser: pisto | appuser: marcos | estado: AM | FALHA: senha incorreta | 92934584f094d294
