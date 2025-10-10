@@ -1019,3 +1019,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-10 05:58:09 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 199a358585acb547
 2025-10-10 07:31:08 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
 2025-10-10 07:32:23 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
+2025-10-10 10:37:12 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
