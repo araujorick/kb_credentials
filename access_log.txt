@@ -1032,3 +1032,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-11 22:21:55 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 220fd6e9cc74cbfd
 2025-10-11 22:58:18 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-10-12 02:22:34 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
+2025-10-12 02:48:42 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
