@@ -1047,3 +1047,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-12 21:00:41 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-10-12 22:14:53 | winuser: caleb | appuser: calebe | estado:  | FALHA: erro ao carregar credenciais | 909f178589fc0e9b
 2025-10-12 22:30:32 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 909f178589fc0e9b
+2025-10-12 23:11:13 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
