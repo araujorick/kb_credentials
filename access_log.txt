@@ -1049,3 +1049,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-12 22:30:32 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 909f178589fc0e9b
 2025-10-12 23:11:13 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
 2025-10-12 23:13:48 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | ed9186b725141264
+2025-10-12 23:45:04 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 8f4d4e010707d896
