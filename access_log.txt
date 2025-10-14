@@ -1060,3 +1060,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-13 13:42:21 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 220fd6e9cc74cbfd
 2025-10-13 13:42:36 | winuser: User | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 220fd6e9cc74cbfd
 2025-10-13 19:13:58 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | d21502beec44a84d
+2025-10-13 22:19:47 | winuser: julio | appuser: julio | estado: SP | FALHA: senha incorreta | 0b93503c44e25cc4
