@@ -1073,3 +1073,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-15 09:17:40 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 4018fde5102b7c06
 2025-10-15 09:18:05 | winuser: caleb | appuser: calebe | estado: SP | FALHA: máquina pendente | 4018fde5102b7c06
 2025-10-15 09:55:32 | winuser: caleb | appuser: calebe | estado: SP | FALHA: senha incorreta | 4018fde5102b7c06
+2025-10-15 09:55:53 | winuser: caleb | appuser: calebe | estado: SP | FALHA: máquina pendente | 4018fde5102b7c06
