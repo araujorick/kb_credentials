@@ -1096,3 +1096,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-19 11:37:59 | winuser: Flexus | appuser: juliosp | estado: SP | FALHA: usuário não encontrado/senha incorreta | 0829c589573e4c91
 2025-10-19 11:38:01 | winuser: Flexus | appuser: juliosp | estado: SP | FALHA: usuário não encontrado/senha incorreta | 0829c589573e4c91
 2025-10-19 13:08:30 | winuser: victo | appuser: victorm | estado: RJ | SUCESSO: máquina autorizada | 318478b591b0488b
+2025-10-19 15:30:21 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 5b4691bcb1f6e51d
