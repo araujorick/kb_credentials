@@ -62,7 +62,9 @@
       "220fd6e9cc74cbfd",
       "a5eda1902fd45788"
     ],
-    "pendentes": []
+    "pendentes": [
+      "87e4b140876f8a83"
+    ]
   },
   "moises": {
     "autorizadas": [
@@ -124,9 +126,7 @@
       "4018fde5102b7c06",
       "5b4691bcb1f6e51d"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "usuarioteste": {
     "autorizadas": [
