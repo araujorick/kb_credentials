@@ -1157,3 +1157,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-25 21:28:00 | winuser: julio | appuser: julio | estado: SP | FALHA: erro ao carregar credenciais | 0b93503c44e25cc4
 2025-10-25 21:29:15 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-10-25 21:59:55 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: erro ao carregar credenciais | 55edee44dc9355d8
+2025-10-26 11:58:40 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
