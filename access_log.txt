@@ -1189,3 +1189,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-27 23:05:35 | winuser: User | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 87e4b140876f8a83
 2025-10-27 23:14:36 | winuser: User | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | 87e4b140876f8a83
 2025-10-27 23:14:40 | winuser: User | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | 87e4b140876f8a83
+2025-10-27 23:14:42 | winuser: User | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | 87e4b140876f8a83
