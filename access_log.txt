@@ -1243,3 +1243,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-28 15:41:26 | winuser: User | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | d080d2f3f50e77f8
 2025-10-28 15:41:28 | winuser: User | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | d080d2f3f50e77f8
 2025-10-28 15:41:31 | winuser: User | appuser: rodrigo | estado: MS | FALHA: acesso não autorizado (pendente) | d080d2f3f50e77f8
+2025-10-28 15:41:33 | winuser: User | appuser: rodrigo | estado: MS | FALHA: máquina pendente | d080d2f3f50e77f8
