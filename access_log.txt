@@ -1551,3 +1551,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-29 09:15:08 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | a5eda1902fd45788
 2025-10-29 09:15:10 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | a5eda1902fd45788
 2025-10-29 09:15:12 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | a5eda1902fd45788
+2025-10-29 09:15:14 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: erro ao carregar credenciais | a5eda1902fd45788
