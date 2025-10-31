@@ -1576,3 +1576,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-10-31 09:20:54 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2025-10-31 09:47:57 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2025-10-31 09:49:00 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
+2025-10-31 10:37:51 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: senha incorreta | a5eda1902fd45788
