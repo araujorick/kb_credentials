@@ -11,9 +11,7 @@
       "fab1cc3cbbaf69a2",
       "f6fc10735151b7c9"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
@@ -133,6 +131,12 @@
   "usuarioteste": {
     "autorizadas": [
       "cc7fa556e29119aa"
+    ],
+    "pendentes": []
+  },
+  "gabriel": {
+    "autorizadas": [
+      "33dd736c3eb327ab"
     ],
     "pendentes": []
   }
