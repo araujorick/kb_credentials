@@ -219,6 +219,17 @@
                 "ativa": true,
                 "expira": "10-05-2039"
             }
+        },
+        {
+            "usuario": "gabriel",
+            "senha": "1837bb1e89b0474a784bd038ad144cd67ba825e5873d5bb5bc6e08ecb4764d59",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "05-12-2025"
+            }
         }
     ]
 }
