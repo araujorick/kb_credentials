@@ -150,7 +150,7 @@
             "autopotion": true,
             "log_acesso": [],
             "assinatura": {
-                "ativa": true,
+                "ativa": false,
                 "expira": "07-09-2025"
             }
         },
