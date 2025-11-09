@@ -1681,3 +1681,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-09 10:17:46 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 4a3b2e8df69f4a46
 2025-11-09 10:21:40 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 4a3b2e8df69f4a46
 2025-11-09 10:28:56 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: senha incorreta | 4a3b2e8df69f4a46
+2025-11-09 10:29:03 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: senha incorreta | 4a3b2e8df69f4a46
