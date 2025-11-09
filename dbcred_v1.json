@@ -230,6 +230,17 @@
                 "ativa": true,
                 "expira": "08-12-2025"
             }
+        },
+        {
+            "usuario": "admin",
+            "senha": "829ec6fd4cae143ed4f2bd6149a1c86a0f1979e72c84ba45f85cdef2f3b74de9",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "10-12-2025"
+            }
         }
     ]
 }
