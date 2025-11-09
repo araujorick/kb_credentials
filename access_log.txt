@@ -1687,3 +1687,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-09 11:17:46 | winuser: victo | appuser: victorm | estado: RJ | FALHA: assinatura inativa/expirada | 318478b591b0488b
 2025-11-09 11:19:44 | appuser: admin | FALHA: senha incorreta
 2025-11-09 11:21:01 | appuser: admin | FALHA: senha incorreta
+2025-11-09 11:21:04 | appuser: admin | FALHA: senha incorreta
