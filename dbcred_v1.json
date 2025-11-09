@@ -210,17 +210,6 @@
             }
         },
         {
-            "usuario": "admin",
-            "senha": "d9a5223b761c375d1263e6e57ebec42d3e0fe3f6f283488d2eb204fb6ff17ee5",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "10-05-2039"
-            }
-        },
-        {
             "usuario": "gabriel",
             "senha": "1837bb1e89b0474a784bd038ad144cd67ba825e5873d5bb5bc6e08ecb4764d59",
             "bloqueado": false,
