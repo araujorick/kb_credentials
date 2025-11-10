@@ -1731,3 +1731,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-10 08:16:57 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
 2025-11-10 08:17:12 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
 2025-11-10 15:14:14 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
+2025-11-10 15:26:56 | winuser: USER | appuser: sandro | estado: MT | SUCESSO: máquina autorizada | 712de16b4ace32ae
