@@ -1746,3 +1746,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-11 18:25:31 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
 2025-11-11 18:28:01 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
 2025-11-11 18:28:16 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
+2025-11-11 18:58:35 | winuser: PICHAU | appuser: rafa3el | estado: SP | FALHA: usuário não encontrado/senha incorreta | 4a3b2e8df69f4a46
