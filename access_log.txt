@@ -1777,3 +1777,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-14 08:47:48 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: acesso não autorizado (pendente) | a5eda1902fd45788
 2025-11-14 08:47:52 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: máquina pendente | a5eda1902fd45788
 2025-11-14 08:47:55 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: máquina pendente | a5eda1902fd45788
+2025-11-14 08:47:57 | winuser: Administrator | appuser: rodrigo | estado: MS | FALHA: máquina pendente | a5eda1902fd45788
