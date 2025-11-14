@@ -3,9 +3,7 @@
     "autorizadas": [
       "4aab2203e1cad131"
     ],
-    "pendentes": [
-   
-    ]
+    "pendentes": []
   },
   "rafael": {
     "autorizadas": [
@@ -66,7 +64,9 @@
       "d080d2f3f50e77f8",
       "6d6adc51cddb6e3f"
     ],
-    "pendentes": []
+    "pendentes": [
+      "a5eda1902fd45788"
+    ]
   },
   "moises": {
     "autorizadas": [
