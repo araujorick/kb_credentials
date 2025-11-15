@@ -1801,3 +1801,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-15 11:43:46 | appuser: admin | FALHA: senha incorreta
 2025-11-15 11:44:02 | appuser: admin | FALHA: senha incorreta
 2025-11-15 11:44:07 | appuser: admin | FALHA: senha incorreta
+2025-11-15 11:44:26 | appuser: admin | SUCESSO: máquina autorizada
