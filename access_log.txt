@@ -1835,3 +1835,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-18 17:19:27 | winuser: pisto | appuser: marcos | estado: AM | FALHA: erro ao carregar credenciais | 92934584f094d294
 2025-11-18 17:19:50 | winuser: pisto | appuser: marcos | estado: AM | FALHA: erro ao carregar credenciais | 92934584f094d294
 2025-11-18 17:20:06 | winuser: pisto | appuser: marcos | estado: AM | FALHA: erro ao carregar credenciais | 92934584f094d294
+2025-11-18 17:20:21 | winuser: pisto | appuser: marcos | estado: AM | FALHA: erro ao carregar credenciais | 92934584f094d294
