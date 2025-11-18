@@ -65,9 +65,7 @@
       "6d6adc51cddb6e3f",
       "a5eda1902fd45788"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "moises": {
     "autorizadas": [
@@ -146,6 +144,12 @@
   "sandro": {
     "autorizadas": [
       "712de16b4ace32ae"
+    ],
+    "pendentes": []
+  },
+  "emersom": {
+    "autorizadas": [
+      "4792d34967c28926"
     ],
     "pendentes": []
   }
