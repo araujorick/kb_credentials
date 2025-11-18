@@ -1831,3 +1831,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-18 18:05:43 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: erro ao carregar credenciais | 4a3b2e8df69f4a46
 2025-11-18 18:05:51 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: erro ao carregar credenciais | 4a3b2e8df69f4a46
 2025-11-18 18:06:18 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: erro ao carregar credenciais | 4a3b2e8df69f4a46
+2025-11-18 17:19:00 | winuser: pisto | appuser: marcos | estado: AM | FALHA: erro ao carregar credenciais | 92934584f094d294
