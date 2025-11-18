@@ -241,6 +241,17 @@
                 "ativa": true,
                 "expira": "30-03-2027"
             }
+        },
+        {
+            "usuario": "emersom",
+            "senha": "7f60cf11ea0506fe050bbc4972a14e30d052cd31c422c454ac5adab260dedcc0",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "19-12-2025"
+            }
         }
     ]
 }
