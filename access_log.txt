@@ -1853,3 +1853,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-18 21:21:28 | winuser: User | appuser: emersom | estado: SC | FALHA: senha incorreta | 4792d34967c28926
 2025-11-18 21:21:59 | winuser: User | appuser: emersom | estado: SC | SUCESSO: máquina autorizada | 4792d34967c28926
 2025-11-18 23:03:29 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
+2025-11-19 02:34:15 | winuser: USER | appuser: sandro | estado: MT | SUCESSO: máquina autorizada | 712de16b4ace32ae
