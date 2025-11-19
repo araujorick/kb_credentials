@@ -1846,3 +1846,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-18 20:52:59 | winuser: User | appuser: emersom | estado: SC | SUCESSO: máquina autorizada | 4792d34967c28926
 2025-11-18 21:02:25 | winuser: User | appuser: emersom | estado: SC | SUCESSO: máquina autorizada | 4792d34967c28926
 2025-11-18 21:07:54 | appuser: admin | SUCESSO: máquina autorizada
+2025-11-18 21:11:22 | appuser: admin | SUCESSO: máquina autorizada
