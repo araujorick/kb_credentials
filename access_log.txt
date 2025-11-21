@@ -1884,3 +1884,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-19 20:51:41 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
 2025-11-19 20:56:41 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
 2025-11-21 17:32:19 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 4ca01c9366902a2d
+2025-11-21 17:43:11 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 5b4691bcb1f6e51d
