@@ -1892,3 +1892,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-22 02:20:02 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: máquina pendente | 89e2905ab61849cc
 2025-11-22 10:18:46 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: primeira máquina autorizada | da18a2101b902f74
 2025-11-22 10:47:54 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: máquina pendente | 4ca01c9366902a2d
+2025-11-22 11:22:51 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: erro ao carregar credenciais | da18a2101b902f74
