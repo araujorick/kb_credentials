@@ -2049,3 +2049,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-23 10:20:20 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: máquina autorizada | da18a2101b902f74
 2025-11-23 11:34:11 | winuser: PICHAU | appuser: rafael | estado: SP | FALHA: acesso não autorizado (pendente) | 4d203dc500cbe387
 2025-11-23 13:27:17 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: máquina autorizada | da18a2101b902f74
+2025-11-23 15:25:44 | winuser: PICHAU | appuser: rafael | estado: SP | SUCESSO: máquina autorizada | 4d203dc500cbe387
