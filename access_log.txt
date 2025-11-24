@@ -2066,3 +2066,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-23 23:53:36 | winuser: USER | appuser: sandro | estado: MT | FALHA: erro ao carregar credenciais | 712de16b4ace32ae
 2025-11-23 23:54:54 | winuser: USER | appuser: sandro | estado: MT | FALHA: erro ao carregar credenciais | 712de16b4ace32ae
 2025-11-24 12:32:23 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | 84a138947f6e743f
+2025-11-24 13:34:04 | winuser: guilh | appuser: gui | estado: RJ | SUCESSO: máquina autorizada | 84a138947f6e743f
