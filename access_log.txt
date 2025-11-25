@@ -2251,3 +2251,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-24 22:50:31 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: erro ao carregar credenciais | da18a2101b902f74
 2025-11-24 22:50:35 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: erro ao carregar credenciais | da18a2101b902f74
 2025-11-24 22:50:49 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: erro ao carregar credenciais | da18a2101b902f74
+2025-11-24 22:51:01 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: erro ao carregar credenciais | da18a2101b902f74
