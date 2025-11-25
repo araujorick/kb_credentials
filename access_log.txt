@@ -2081,3 +2081,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-24 21:54:56 | winuser: julio | appuser: julio | estado: SP | FALHA: erro ao carregar credenciais | 0b93503c44e25cc4
 2025-11-24 21:54:59 | winuser: julio | appuser: julio | estado: SP | FALHA: erro ao carregar credenciais | 0b93503c44e25cc4
 2025-11-24 21:55:01 | winuser: julio | appuser: julio | estado: SP | FALHA: erro ao carregar credenciais | 0b93503c44e25cc4
+2025-11-24 21:55:03 | winuser: julio | appuser: julio | estado: SP | FALHA: erro ao carregar credenciais | 0b93503c44e25cc4
