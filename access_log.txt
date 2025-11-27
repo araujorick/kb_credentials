@@ -2307,3 +2307,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-27 20:37:07 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: máquina pendente | 89e2905ab61849cc
 2025-11-27 20:37:59 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: máquina pendente | 89e2905ab61849cc
 2025-11-27 20:39:50 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: máquina pendente | 89e2905ab61849cc
+2025-11-27 20:41:32 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 7b848a17eb7d767c
