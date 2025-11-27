@@ -2296,3 +2296,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-11-27 16:54:31 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: máquina autorizada | da18a2101b902f74
 2025-11-27 17:01:21 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: senha incorreta | da18a2101b902f74
 2025-11-27 17:01:25 | winuser: Samuel | appuser: samuel | estado: SP | FALHA: senha incorreta | da18a2101b902f74
+2025-11-27 17:01:38 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: máquina autorizada | da18a2101b902f74
