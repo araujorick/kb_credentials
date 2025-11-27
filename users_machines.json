@@ -10,11 +10,8 @@
       "427684a46b3c69d1",
       "4ca01c9366902a2d",
       "4d203dc500cbe387"
-
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
@@ -131,7 +128,8 @@
       "5b4691bcb1f6e51d"
     ],
     "pendentes": [
-      "89e2905ab61849cc"
+      "89e2905ab61849cc",
+      "7b848a17eb7d767c"
     ]
   },
   "usuarioteste": {
