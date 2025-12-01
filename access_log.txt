@@ -2337,3 +2337,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-01 17:30:15 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
 2025-12-01 17:30:48 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
 2025-12-01 18:25:40 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
+2025-12-01 19:45:15 | winuser: victo | appuser: victorm | estado: RJ | FALHA: assinatura inativa/expirada | 318478b591b0488b
