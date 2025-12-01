@@ -2342,3 +2342,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-01 19:45:19 | winuser: victo | appuser: victorm | estado: RJ | FALHA: assinatura inativa/expirada | 318478b591b0488b
 2025-12-01 20:54:12 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
 2025-12-01 20:55:34 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
+2025-12-01 20:58:08 | winuser: Rodrigo | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 6d6adc51cddb6e3f
