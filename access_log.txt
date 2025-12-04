@@ -2359,3 +2359,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-03 20:39:27 | appuser: admin | FALHA: senha incorreta
 2025-12-03 20:39:45 | appuser: admin | FALHA: senha incorreta
 2025-12-03 22:28:45 | winuser: thiag | appuser: thiago | estado: BA | SUCESSO: máquina autorizada | 988bfb89aeb68265
+2025-12-03 23:28:15 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
