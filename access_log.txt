@@ -2423,3 +2423,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-06 20:38:45 | winuser: julio | appuser: julio | estado: SP | FALHA: não foi possível consultar autorização remota | 0b93503c44e25cc4
 2025-12-06 20:39:12 | winuser: julio | appuser: julio | estado: SP | FALHA: não foi possível consultar autorização remota | 0b93503c44e25cc4
 2025-12-06 20:39:21 | winuser: julio | appuser: julio | estado: SP | FALHA: não foi possível consultar autorização remota | 0b93503c44e25cc4
+2025-12-06 20:40:20 | winuser: julio | appuser: julio | estado: SP | FALHA: não foi possível consultar autorização remota | 0b93503c44e25cc4
