@@ -263,6 +263,17 @@
                 "ativa": true,
                 "expira": "23-12-2025"
             }
+        },
+        {
+            "usuario": "marcondes",
+            "senha": "e1ea0016223fb50b6e34d49e84a57908b1391a48fb68b9dbda72cacf21aa8a72",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "06-01-2026"
+            }
         }
     ]
 }
