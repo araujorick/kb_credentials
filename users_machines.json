@@ -17,11 +17,9 @@
   },
   "mateus": {
     "autorizadas": [
-     "873143917d5ebb96"
+      "873143917d5ebb96"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "thiago": {
     "autorizadas": [
@@ -158,6 +156,12 @@
   "samuel": {
     "autorizadas": [
       "da18a2101b902f74"
+    ],
+    "pendentes": []
+  },
+  "marcondes": {
+    "autorizadas": [
+      "f186f1fb66075c4c"
     ],
     "pendentes": []
   }
