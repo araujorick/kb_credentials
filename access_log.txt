@@ -2387,3 +2387,5 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-06 11:34:17 | winuser: Samuel | appuser: samuel | estado: SP | SUCESSO: máquina autorizada | da18a2101b902f74
 2025-12-06 12:15:47 | winuser: kaver | appuser: marcodes
  | estado: BA | FALHA: usuário não encontrado/senha incorreta | f186f1fb66075c4c
+2025-12-06 12:17:37 | winuser: kaver | appuser: marcodes
+ | estado: BA | FALHA: usuário não encontrado/senha incorreta | f186f1fb66075c4c
