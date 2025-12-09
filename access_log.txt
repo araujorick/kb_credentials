@@ -2527,3 +2527,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-08 23:10:28 | winuser: Henrique | appuser: rodrigo | estado: AL | FALHA: não foi possível consultar autorização remota | 4aab2203e1cad131
 2025-12-08 23:21:56 | winuser: Henrique | appuser: rodrigo | estado: AL | FALHA: acesso não autorizado (pendente) | 4aab2203e1cad131
 2025-12-08 23:22:32 | winuser: Henrique | appuser: rodrigo | estado: AL | FALHA: máquina pendente | 4aab2203e1cad131
+2025-12-08 23:23:53 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
