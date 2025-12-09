@@ -232,17 +232,6 @@
             }
         },
         {
-            "usuario": "admin",
-            "senha": "daa4f3130b3a6aae61acf607459d1290e28cf379aa2d52f80af310bab93f9403",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "30-03-2027"
-            }
-        },
-        {
             "usuario": "emersom",
             "senha": "7f60cf11ea0506fe050bbc4972a14e30d052cd31c422c454ac5adab260dedcc0",
             "bloqueado": false,
