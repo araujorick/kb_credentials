@@ -2510,3 +2510,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-08 22:26:53 | appuser: admin | FALHA: senha incorreta
 2025-12-08 23:01:24 | winuser: Henrique | appuser: rodrigo | estado: AL | FALHA: não foi possível consultar autorização remota | 4aab2203e1cad131
 2025-12-08 23:01:48 | appuser: admin | FALHA: senha incorreta
+2025-12-08 23:02:17 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
