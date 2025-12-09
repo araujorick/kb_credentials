@@ -2514,3 +2514,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-08 23:02:21 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
 2025-12-08 23:02:28 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
 2025-12-08 23:02:54 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
+2025-12-08 23:02:59 | winuser: Henrique | appuser: teste1 | estado: AL | FALHA: usuário não encontrado/senha incorreta | 4aab2203e1cad131
