@@ -2508,3 +2508,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-08 22:16:02 | winuser: Rodrigo | appuser: rodrigo | estado: MS | FALHA: não foi possível consultar autorização remota | 6d6adc51cddb6e3f
 2025-12-08 22:16:04 | winuser: Rodrigo | appuser: rodrigo | estado: MS | FALHA: não foi possível consultar autorização remota | 6d6adc51cddb6e3f
 2025-12-08 22:26:53 | appuser: admin | FALHA: senha incorreta
+2025-12-08 23:01:24 | winuser: Henrique | appuser: rodrigo | estado: AL | FALHA: não foi possível consultar autorização remota | 4aab2203e1cad131
