@@ -64,13 +64,11 @@
   },
   "rodrigo": {
     "autorizadas": [
-      "d080d2f3f50e77f8",
-      "6d6adc51cddb6e3f",
-      "a5eda1902fd45788"
-    ],
-    "pendentes": [
+      "a5eda1902fd45788",
       "4aab2203e1cad131",
       "39aa2d5b1c902de7"
+    ],
+    "pendentes": [
     ]
   },
   "moises": {
