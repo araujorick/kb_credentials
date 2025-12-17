@@ -2610,3 +2610,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-16 14:58:12 | winuser: mateu | appuser: mateus | estado: RO | FALHA: máquina pendente | a9563e0fd1003dec
 2025-12-16 19:11:55 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-12-17 00:04:00 | winuser: thiag | appuser: thiago | estado: PA | FALHA: não foi possível consultar autorização remota | 988bfb89aeb68265
+2025-12-17 00:04:09 | winuser: thiag | appuser: thiago | estado: PA | FALHA: senha incorreta | 988bfb89aeb68265
