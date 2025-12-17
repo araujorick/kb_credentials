@@ -2613,3 +2613,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-17 00:04:09 | winuser: thiag | appuser: thiago | estado: PA | FALHA: senha incorreta | 988bfb89aeb68265
 2025-12-17 00:04:14 | winuser: thiag | appuser: Thiago | estado: PA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
 2025-12-17 00:04:16 | winuser: thiag | appuser: Thiago | estado: PA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
+2025-12-17 00:04:24 | winuser: thiag | appuser: Thiago | estado: PA | FALHA: usuário não encontrado/senha incorreta | 988bfb89aeb68265
