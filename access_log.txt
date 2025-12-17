@@ -2636,3 +2636,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-17 10:35:56 | winuser: Calebe | appuser: CALEBE | estado: SP | FALHA: usuário não encontrado/senha incorreta | 89e2905ab61849cc
 2025-12-17 10:36:01 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: senha incorreta | 89e2905ab61849cc
 2025-12-17 10:36:15 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 89e2905ab61849cc
+2025-12-17 11:11:32 | winuser: Calebe | appuser: calebe | estado: SP | FALHA: máquina pendente | 89e2905ab61849cc
