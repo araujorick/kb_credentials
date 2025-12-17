@@ -12,18 +12,14 @@
       "3d6aba702b26a0fa",
       "a9563e0fd1003dec"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "mateus": {
     "autorizadas": [
       "46f33b0a3f28ee68",
       "8adee8a2b1fef100"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "thiago": {
     "autorizadas": [
@@ -132,7 +128,9 @@
       "7b848a17eb7d767c",
       "b2c9249065d9893b"
     ],
-    "pendentes": []
+    "pendentes": [
+      "89e2905ab61849cc"
+    ]
   },
   "usuarioteste": {
     "autorizadas": [
