@@ -2656,3 +2656,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-19 23:48:08 | winuser: mateu | appuser: mateus | estado: RO | FALHA: senha incorreta | c1edb897aaf209af
 2025-12-19 23:48:16 | winuser: mateu | appuser: mateus | estado: RO | FALHA: acesso não autorizado (pendente) | c1edb897aaf209af
 2025-12-20 02:31:40 | winuser: Biel- | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | a01d2799b4d39c9a
+2025-12-20 02:49:20 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
