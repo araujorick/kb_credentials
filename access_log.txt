@@ -2654,3 +2654,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-20 00:13:14 | winuser: rodri | appuser: rodrigo | estado: MS | FALHA: máquina pendente | 130e53af8d41f0fc
 2025-12-20 00:31:55 | winuser: rodri | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | 130e53af8d41f0fc
 2025-12-19 23:48:08 | winuser: mateu | appuser: mateus | estado: RO | FALHA: senha incorreta | c1edb897aaf209af
+2025-12-19 23:48:16 | winuser: mateu | appuser: mateus | estado: RO | FALHA: acesso não autorizado (pendente) | c1edb897aaf209af
