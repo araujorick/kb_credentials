@@ -2693,3 +2693,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-28 22:07:25 | winuser: Flexus | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0829c589573e4c91
 2025-12-29 15:21:10 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2025-12-30 17:18:34 | winuser: eliak | appuser: gabriel | estado: PA | SUCESSO: máquina autorizada | 33dd736c3eb327ab
+2025-12-30 17:19:40 | winuser: eliak | appuser: gabriel | estado: PA | FALHA: senha incorreta | 33dd736c3eb327ab
