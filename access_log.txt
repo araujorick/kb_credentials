@@ -2701,3 +2701,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2025-12-31 00:39:52 | winuser: rodri | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 130e53af8d41f0fc
 2025-12-31 00:44:09 | winuser: rodri | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 130e53af8d41f0fc
 2025-12-31 16:08:07 | winuser: Junior | appuser: moises | estado: SP | FALHA: acesso não autorizado (pendente) | b82c0d40be684a12
+2025-12-31 16:08:11 | winuser: Junior | appuser: moises | estado: SP | FALHA: máquina pendente | b82c0d40be684a12
