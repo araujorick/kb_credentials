@@ -2774,3 +2774,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-01-25 17:54:43 | winuser: Calebe | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 89e2905ab61849cc
 2026-01-26 16:03:29 | winuser: julio | appuser: juliosp | estado: SP | FALHA: usuário não encontrado/senha incorreta | 0b93503c44e25cc4
 2026-01-26 16:03:37 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
+2026-01-27 21:29:45 | winuser: rodri | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 130e53af8d41f0fc
