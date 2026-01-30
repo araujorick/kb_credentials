@@ -2781,3 +2781,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-01-28 17:21:59 | winuser: Flexus | appuser: julio | estado: SP | FALHA: máquina pendente | 3dace58bc5d45aaa
 2026-01-29 21:55:54 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2026-01-30 09:43:24 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
+2026-01-30 14:15:34 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | b3cc26e6561af204
