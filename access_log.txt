@@ -2785,3 +2785,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-01-30 17:38:39 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | ce5a6a95d4c5b86b
 2026-01-30 21:57:39 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2026-01-31 19:07:41 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
+2026-02-01 08:51:21 | winuser: rodri | appuser: rodrigo | estado: PR | SUCESSO: máquina autorizada | 130e53af8d41f0fc
