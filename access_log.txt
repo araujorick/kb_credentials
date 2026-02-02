@@ -2807,3 +2807,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-02-02 10:37:33 | winuser: caleb | appuser: calebe | estado: SP | FALHA: senha incorreta | 6da6861e2e837a61
 2026-02-02 10:37:40 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 6da6861e2e837a61
 2026-02-02 10:57:19 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | 6da6861e2e837a61
+2026-02-02 11:02:31 | winuser: caleb | appuser: calebe | estado: SP | FALHA: acesso não autorizado (pendente) | 16847cc155009835
