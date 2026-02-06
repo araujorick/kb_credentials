@@ -3,7 +3,9 @@
     "autorizadas": [
       "4aab2203e1cad131"
     ],
-    "pendentes": []
+    "pendentes": [
+      "21f4dd6e48b8404a"
+    ]
   },
   "rafael": {
     "autorizadas": [
@@ -138,9 +140,7 @@
       "6da6861e2e837a61",
       "16847cc155009835"
     ],
-    "pendentes": [
-      
-    ]
+    "pendentes": []
   },
   "usuarioteste": {
     "autorizadas": [
