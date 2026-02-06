@@ -2852,3 +2852,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-02-04 21:36:18 | winuser: julio | appuser: julio | estado: SP | SUCESSO: máquina autorizada | 0b93503c44e25cc4
 2026-02-04 07:24:19 | winuser: Administrator | appuser: rodrigo | estado: MS | SUCESSO: máquina autorizada | a5eda1902fd45788
 2026-02-05 02:52:56 | winuser: caleb | appuser: calebe | estado: SP | SUCESSO: máquina autorizada | b3cc26e6561af204
+2026-02-05 21:55:25 | appuser: admin | FALHA: senha incorreta
