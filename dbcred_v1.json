@@ -265,17 +265,6 @@
             }
         },
         {
-            "usuario": "admin",
-            "senha": "d9a5223b761c375d1263e6e57ebec42d3e0fe3f6f283488d2eb204fb6ff17ee5",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "08-01-2026"
-            }
-        },
-        {
             "usuario": "jeffrei",
             "senha": "404be8b43a11dbcbf5b94297d8404fd4571d3cc44b8172eef7666069ed5c8e9c",
             "bloqueado": false,
