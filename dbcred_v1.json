@@ -274,6 +274,17 @@
                 "ativa": true,
                 "expira": "09-01-2026"
             }
+        },
+        {
+            "usuario": "admin",
+            "senha": "c95a618a8a9dacec367bc594f275d8d5e94b0fb5e432b9c41d4ec985ce77b6e7",
+            "bloqueado": false,
+            "autopotion": false,
+            "log_acesso": [],
+            "assinatura": {
+                "ativa": true,
+                "expira": "08-11-2080"
+            }
         }
     ]
 }
