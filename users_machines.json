@@ -1,11 +1,9 @@
 {
   "admin": {
     "autorizadas": [
-      "4aab2203e1cad131"
-    ],
-    "pendentes": [
       "21f4dd6e48b8404a"
-    ]
+    ],
+    "pendentes": [ ]
   },
   "rafael": {
     "autorizadas": [
