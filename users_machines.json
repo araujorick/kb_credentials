@@ -1,7 +1,8 @@
 {
   "admin": {
     "autorizadas": [
-      "21f4dd6e48b8404a"
+      "21f4dd6e48b8404a",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
@@ -10,7 +11,8 @@
       "4ca01c9366902a2d",
       "4d203dc500cbe387",
       "3d6aba702b26a0fa",
-      "a9563e0fd1003dec"
+      "a9563e0fd1003dec",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "445e777fae8eb32f"
@@ -19,7 +21,8 @@
   "mateus": {
     "autorizadas": [
       "46f33b0a3f28ee68",
-      "8adee8a2b1fef100"
+      "8adee8a2b1fef100",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "c1edb897aaf209af",
@@ -28,33 +31,38 @@
   },
   "thiago": {
     "autorizadas": [
-      "988bfb89aeb68265"
+      "988bfb89aeb68265",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "weric": {
     "autorizadas": [
-      "a7ff093dd1fdad94"
+      "a7ff093dd1fdad94",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "gui": {
     "autorizadas": [
       "ed9186b725141264",
-      "84a138947f6e743f"
+      "84a138947f6e743f",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "victor": {
     "autorizadas": [
-      "0fa8e760dd30e953"
+      "0fa8e760dd30e953",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "julio": {
     "autorizadas": [
       "0b93503c44e25cc4",
-      "0829c589573e4c91"
+      "0829c589573e4c91",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "3dace58bc5d45aaa",
@@ -63,7 +71,8 @@
   },
   "teste3": {
     "autorizadas": [
-      "2ec540acf1903df1"
+      "2ec540acf1903df1",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "f2e6dea4e6d94d50"
@@ -75,7 +84,8 @@
       "4aab2203e1cad131",
       "39aa2d5b1c902de7",
       "7393f65256802038",
-      "130e53af8d41f0fc"
+      "130e53af8d41f0fc",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "8f96fdcb2324650d"
@@ -85,7 +95,8 @@
     "autorizadas": [
       "19cc454cce196306",
       "022f631266e5845b",
-      "0b007d69bce6d48d"
+      "0b007d69bce6d48d",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "b82c0d40be684a12"
@@ -93,31 +104,36 @@
   },
   "victorm": {
     "autorizadas": [
-      "318478b591b0488b"
+      "318478b591b0488b",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "lilon": {
     "autorizadas": [
-      "17cfb0efe6bf7671"
+      "17cfb0efe6bf7671",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "douglas": {
     "autorizadas": [
-      "03c5ccc80a45ae90"
+      "03c5ccc80a45ae90",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "doug": {
     "autorizadas": [
-      "b443af6f255e457b"
+      "b443af6f255e457b",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "testeassinatura": {
     "autorizadas": [
-      "f2e6dea4e6d94d50"
+      "f2e6dea4e6d94d50",
+      "e2e2e66c426b8657"
     ],
     "pendentes": [
       "b486b7cba95ed21d",
@@ -126,15 +142,15 @@
   },
   "marcos": {
     "autorizadas": [
-      "92934584f094d294"
-    ],
-    "pendentes": [
+      "92934584f094d294",
       "e2e2e66c426b8657"
-    ]
+    ],
+    "pendentes": []
   },
   "anjoazazel": {
     "autorizadas": [
-      "8d9c5d2e6db23d5a"
+      "8d9c5d2e6db23d5a",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
@@ -143,38 +159,44 @@
       "b3cc26e6561af204",
       "ce5a6a95d4c5b86b",
       "6da6861e2e837a61",
-      "16847cc155009835"
+      "16847cc155009835",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "usuarioteste": {
     "autorizadas": [
-      "cc7fa556e29119aa"
+      "cc7fa556e29119aa",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "gabriel": {
     "autorizadas": [
       "33dd736c3eb327ab",
-      "a01d2799b4d39c9a"
+      "a01d2799b4d39c9a",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "sandro": {
     "autorizadas": [
-      "712de16b4ace32ae"
+      "712de16b4ace32ae",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "emersom": {
     "autorizadas": [
-      "4792d34967c28926"
+      "4792d34967c28926",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
   "samuel": {
     "autorizadas": [
-      "da18a2101b902f74"
+      "da18a2101b902f74",
+      "e2e2e66c426b8657"
     ],
     "pendentes": []
   },
