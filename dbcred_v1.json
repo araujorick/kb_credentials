@@ -1,290 +1,301 @@
 {
-    "usuario": [
-        {
-            "usuario": "pablo",
-            "senha": "40b1b3128a4e8795a37b19b40cb30bf993a422c1b7c037ce1536d368554333cf",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "30-08-2025"
-            }
-        },
-        {
-            "usuario": "diego",
-            "senha": "74cbe7ac394d28b88afdb3862b63524753d52e5ff1676245e4eee5fb3a6d7810",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "02-08-2025"
-            }
-        },
-        {
-            "usuario": "thiago",
-            "senha": "d777f4faad0acec16d7685a06a267db65e50d1f9a28f6258e31a61275b2e1281",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "01-10-2025"
-            }
-        },
-        {
-            "usuario": "rafael",
-            "senha": "76534815980fac995af04cac574dd34750ff80aabf2d467bba4b0672740517eb",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "19-11-2027"
-            }
-        },
-        {
-            "usuario": "anjoazazel",
-            "senha": "451053160988e110ba9fbef49d9b544364a84e8d04eb308ad32aeb6e2d51331b",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "19-09-2025"
-            }
-        },
-        {
-            "usuario": "victor",
-            "senha": "09ba1ad7b233f85209b9a1ec9a43f396b7d84b5d0f07aa3fe8aed5a310f622c3",
-            "bloqueado": true,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "11-09-2025"
-            }
-        },
-        {
-            "usuario": "douglas",
-            "senha": "da2dbfc1bbdc9fecd88c0c48df8497606b7d30d9f0e2533b25d244c96537d805",
-            "bloqueado": true,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "24-08-2025"
-            }
-        },
-        {
-            "usuario": "mateus",
-            "senha": "74a2372a4b06fb8d23c4a1f7a03cf2debc43e7ac080a5ff9bc8bea1708a35d84",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "07-01-2026"
-            }
-        },
-        {
-            "usuario": "marcos",
-            "senha": "17de67fa077e4e3c3d0ea0a694e1d41c74f6df2c0852258f400ec8fb3a83731b",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "04-10-2025"
-            }
-        },
-        {
-            "usuario": "lilon",
-            "senha": "b96b5a49fd97f5aadcf66607a718c4be2cc3c733cf9de60ca46e6fb93bb918a8",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "30-08-2025"
-            }
-        },
-        {
-            "usuario": "rodrigo",
-            "senha": "4696efd0e90fa926d48c23407712defa8b5a75832916ac93eeb28fba02e0e8ff",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "27-12-2025"
-            }
-        },
-        {
-            "usuario": "julio",
-            "senha": "75ff188283bef1a050f58860666ccf3de7936d7217f3fb1bff4166496b31df53",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "09-12-2025"
-            }
-        },
-        {
-            "usuario": "gui",
-            "senha": "0704fc850b71ed195aaf043de5ab436cbd2f30747484e84ccfdebb600d0a7416",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "03-11-2025"
-            }
-        },
-        {
-            "usuario": "victorm",
-            "senha": "9cd91f77b684eafe7129745b7a7336a4f7d2073117bfd9efc61517d4229e71eb",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": false,
-                "expira": "07-09-2025"
-            }
-        },
-        {
-            "usuario": "moises",
-            "senha": "958939ffad940756a9f5502867cd380c17d80541f85db2fe4e5b50d09228efd5",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "16-10-2025"
-            }
-        },
-        {
-            "usuario": "weric",
-            "senha": "9d994f3f1661313de2ec01049489bbe0534555eddbcf70c8677b84f8791e5702",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "07-09-2025"
-            }
-        },
-        {
-            "usuario": "doug",
-            "senha": "d7118e70af316460749cbf0aa55aecfe496e664c5d0ef84661317ec70ea2be97",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "10-09-2025"
-            }
-        },
-        {
-            "usuario": "calebe",
-            "senha": "ec056f14d60fde3e286834a4612c2d31d9cb38c2a8a945e391b1d06d3ff4811e",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "02-03-2026"
-            }
-        },
-        {
-            "usuario": "usuarioteste",
-            "senha": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "25-08-2025"
-            }
-        },
-        {
-            "usuario": "gabriel",
-            "senha": "1837bb1e89b0474a784bd038ad144cd67ba825e5873d5bb5bc6e08ecb4764d59",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "11-01-2026"
-            }
-        },
-        {
-            "usuario": "sandro",
-            "senha": "006735aa68c9678144c8db3ebd4c76c87cba725396635e7a4043263a0b106fbc",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "08-12-2025"
-            }
-        },
-        {
-            "usuario": "emersom",
-            "senha": "7f60cf11ea0506fe050bbc4972a14e30d052cd31c422c454ac5adab260dedcc0",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "19-12-2025"
-            }
-        },
-        {
-            "usuario": "samuel",
-            "senha": "8c31f473d41042f5033ee1d4e441cd6a8dc5b16515016329a2b46487ebf81b2c",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "23-12-2025"
-            }
-        },
-        {
-            "usuario": "marcondes",
-            "senha": "e1ea0016223fb50b6e34d49e84a57908b1391a48fb68b9dbda72cacf21aa8a72",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "06-01-2026"
-            }
-        },
-        {
-            "usuario": "jeffrei",
-            "senha": "404be8b43a11dbcbf5b94297d8404fd4571d3cc44b8172eef7666069ed5c8e9c",
-            "bloqueado": false,
-            "autopotion": false,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "09-01-2026"
-            }
-        },
-        {
-            "usuario": "admin",
-            "senha": "c95a618a8a9dacec367bc594f275d8d5e94b0fb5e432b9c41d4ec985ce77b6e7",
-            "bloqueado": false,
-            "autopotion": true,
-            "log_acesso": [],
-            "assinatura": {
-                "ativa": true,
-                "expira": "08-11-2080"
-            }
-        }
-    ]
+  "usuario": [
+    {
+      "usuario": "pablo",
+      "senha": "40b1b3128a4e8795a37b19b40cb30bf993a422c1b7c037ce1536d368554333cf",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "30-08-2025"
+      }
+    },
+    {
+      "usuario": "diego",
+      "senha": "74cbe7ac394d28b88afdb3862b63524753d52e5ff1676245e4eee5fb3a6d7810",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "02-08-2025"
+      }
+    },
+    {
+      "usuario": "thiago",
+      "senha": "d777f4faad0acec16d7685a06a267db65e50d1f9a28f6258e31a61275b2e1281",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "01-10-2025"
+      }
+    },
+    {
+      "usuario": "rafael",
+      "senha": "76534815980fac995af04cac574dd34750ff80aabf2d467bba4b0672740517eb",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "19-11-2027"
+      }
+    },
+    {
+      "usuario": "anjoazazel",
+      "senha": "451053160988e110ba9fbef49d9b544364a84e8d04eb308ad32aeb6e2d51331b",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "19-09-2025"
+      }
+    },
+    {
+      "usuario": "victor",
+      "senha": "09ba1ad7b233f85209b9a1ec9a43f396b7d84b5d0f07aa3fe8aed5a310f622c3",
+      "bloqueado": true,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "11-09-2025"
+      }
+    },
+    {
+      "usuario": "douglas",
+      "senha": "da2dbfc1bbdc9fecd88c0c48df8497606b7d30d9f0e2533b25d244c96537d805",
+      "bloqueado": true,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "24-08-2025"
+      }
+    },
+    {
+      "usuario": "mateus",
+      "senha": "74a2372a4b06fb8d23c4a1f7a03cf2debc43e7ac080a5ff9bc8bea1708a35d84",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "07-01-2026"
+      }
+    },
+    {
+      "usuario": "marcos",
+      "senha": "17de67fa077e4e3c3d0ea0a694e1d41c74f6df2c0852258f400ec8fb3a83731b",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "04-10-2025"
+      }
+    },
+    {
+      "usuario": "lilon",
+      "senha": "b96b5a49fd97f5aadcf66607a718c4be2cc3c733cf9de60ca46e6fb93bb918a8",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "30-08-2025"
+      }
+    },
+    {
+      "usuario": "rodrigo",
+      "senha": "4696efd0e90fa926d48c23407712defa8b5a75832916ac93eeb28fba02e0e8ff",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "27-12-2025"
+      }
+    },
+    {
+      "usuario": "julio",
+      "senha": "75ff188283bef1a050f58860666ccf3de7936d7217f3fb1bff4166496b31df53",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "09-12-2025"
+      }
+    },
+    {
+      "usuario": "gui",
+      "senha": "0704fc850b71ed195aaf043de5ab436cbd2f30747484e84ccfdebb600d0a7416",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "03-11-2025"
+      }
+    },
+    {
+      "usuario": "victorm",
+      "senha": "9cd91f77b684eafe7129745b7a7336a4f7d2073117bfd9efc61517d4229e71eb",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": false,
+        "expira": "07-09-2025"
+      }
+    },
+    {
+      "usuario": "moises",
+      "senha": "958939ffad940756a9f5502867cd380c17d80541f85db2fe4e5b50d09228efd5",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "16-10-2025"
+      }
+    },
+    {
+      "usuario": "weric",
+      "senha": "9d994f3f1661313de2ec01049489bbe0534555eddbcf70c8677b84f8791e5702",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "07-09-2025"
+      }
+    },
+    {
+      "usuario": "doug",
+      "senha": "d7118e70af316460749cbf0aa55aecfe496e664c5d0ef84661317ec70ea2be97",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "10-09-2025"
+      }
+    },
+    {
+      "usuario": "calebe",
+      "senha": "ec056f14d60fde3e286834a4612c2d31d9cb38c2a8a945e391b1d06d3ff4811e",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "02-03-2026"
+      }
+    },
+    {
+      "usuario": "usuarioteste",
+      "senha": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "25-08-2025"
+      }
+    },
+    {
+      "usuario": "gabriel",
+      "senha": "1837bb1e89b0474a784bd038ad144cd67ba825e5873d5bb5bc6e08ecb4764d59",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "11-01-2026"
+      }
+    },
+    {
+      "usuario": "sandro",
+      "senha": "006735aa68c9678144c8db3ebd4c76c87cba725396635e7a4043263a0b106fbc",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "08-12-2025"
+      }
+    },
+    {
+      "usuario": "emersom",
+      "senha": "7f60cf11ea0506fe050bbc4972a14e30d052cd31c422c454ac5adab260dedcc0",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "19-12-2025"
+      }
+    },
+    {
+      "usuario": "samuel",
+      "senha": "8c31f473d41042f5033ee1d4e441cd6a8dc5b16515016329a2b46487ebf81b2c",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "23-12-2025"
+      }
+    },
+    {
+      "usuario": "marcondes",
+      "senha": "e1ea0016223fb50b6e34d49e84a57908b1391a48fb68b9dbda72cacf21aa8a72",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "06-01-2026"
+      }
+    },
+    {
+      "usuario": "jeffrei",
+      "senha": "404be8b43a11dbcbf5b94297d8404fd4571d3cc44b8172eef7666069ed5c8e9c",
+      "bloqueado": false,
+      "autopotion": false,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "09-01-2026"
+      }
+    },
+    {
+      "usuario": "admin",
+      "senha": "c95a618a8a9dacec367bc594f275d8d5e94b0fb5e432b9c41d4ec985ce77b6e7",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "08-11-2080"
+      }
+    },
+    {
+      "usuario": "testeseg",
+      "senha": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+      "bloqueado": false,
+      "autopotion": true,
+      "log_acesso": [],
+      "assinatura": {
+        "ativa": true,
+        "expira": "31-12-2026"
+      }
+    }
+  ]
 }
