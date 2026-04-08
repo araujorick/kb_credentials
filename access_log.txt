@@ -2907,3 +2907,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-04-08 00:00:12 | winuser: pisto | appuser: marcos | estado: AM | FALHA: senha incorreta | 92934584f094d294
 2026-04-08 00:00:20 | winuser: pisto | appuser: Marcos | estado: AM | FALHA: usuário não encontrado/senha incorreta | 92934584f094d294
 2026-04-08 00:00:34 | winuser: pisto | appuser: Marcos | estado: AM | FALHA: usuário não encontrado/senha incorreta | 92934584f094d294
+2026-04-08 00:01:16 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
