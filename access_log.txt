@@ -2910,3 +2910,4 @@ Data/Hora: 2025-08-24 19:52:53 | Usuário: victorm | IP Local: 45.160.120.230 | 
 2026-04-08 00:01:16 | winuser: pisto | appuser: marcos | estado: AM | SUCESSO: máquina autorizada | 92934584f094d294
 2026-04-19 05:00:32 | winuser: Luis | appuser:  | estado: SP | FALHA: usuário não encontrado/senha incorreta | 78a284f45d2c8671
 2026-04-19 05:00:34 | winuser: Luis | appuser:  | estado: SP | FALHA: usuário não encontrado/senha incorreta | 78a284f45d2c8671
+2026-04-29 16:32:06 | winuser: rodri | appuser: rodrigo | estado: MS | FALHA: máquina pendente | 8f96fdcb2324650d
